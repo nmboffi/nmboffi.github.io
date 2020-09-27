@@ -4,6 +4,8 @@ layout: page
 permalink: /about/
 ---
 
+# nicholas m. boffi
+
 <img src="../images/me.jpg" width="200" align="left" style="padding: 25px">
 
 I’m a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard University) and [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT). I am also a student researcher at Google Brain Robotics, hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, numerical analysis, and computational mathematics. My research focuses on the use of machine learning methods in adaptive control theory and the application of dynamical systems techniques to optimization and machine learning.
