@@ -1,6 +1,5 @@
 # Name of your site (displayed in the header)
-name: me
-#recompile
+name: nicholas m. boffi
 
 permalink: /:title/
 
@@ -25,8 +24,8 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-seo-tag
-  - jekyll-paginate
+  #- jekyll-seo-tag
+  #- jekyll-paginate
 
 include: ['_pages']
 

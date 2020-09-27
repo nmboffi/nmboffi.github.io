@@ -15,6 +15,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+hr {
+    border: 1px solid $lightGray;
+}
+
 html {
   font-size: 100%;
   height: 100%;
@@ -26,7 +30,7 @@ body {
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 14px;
   height: 100%;
 }
 
@@ -39,13 +43,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: $darkerGray;
+  color: gray;
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  text-align: center;
+  text-align: left;
 
   @include mobile {
     line-height: 1.4;
@@ -63,18 +67,6 @@ h2 {
   font-size: 24px;
 }
 
-@media (min-width: 769px){
-	.post h2::before, .post h2::after {
-	    content: "";
-	    display: inline-block;
-	    vertical-align: middle;
-	    width: 46px;
-	    height: 1px;
-	    background: rgb(192, 211, 218);
-	    margin: 0px 30px;
-	}
-}
-
 h3 {
   font-size: 20px;
 }
@@ -86,66 +78,6 @@ h4 {
 
 p {
   margin: 15px 0;
-}
-
-table {
-	padding: 0;
-}
-
-table tr {
-	border-top: 1px solid #cccccc;
-	background-color: white;
-	margin: 0;
-	padding: 0;
-}
-
-table tr:nth-child(2n) {
-	background-color: #f8f8f8;
-}
-
-table tr th {
-	font-weight: bold;
-	border: 1px solid #cccccc;
-	text-align: left;
-	margin: 0;
-	padding: 6px 13px;
-}
-
-table tr td {
-	border: 1px solid #cccccc;
-	text-align: left;
-	margin: 0;
-	padding: 6px 13px;
-}
-
-table tr th :first-child,
-table tr td :first-child {
-	margin-top: 0;
-}
-
-table tr th :last-child,
-table tr td :last-child {
-	margin-bottom: 0;
-}
-
-span[data-pullquote] {
-  display: block;
-
-  @include mobile {
-    display: none;
-  }
-}
-
-span[data-pullquote]:before {
-  content: attr(data-pullquote);
-  float: right;
-  width: 200px;
-  margin: 0 0 0.5em 30px;
-  padding: 0 -5% 0 0;
-  font-size: 1.3em;
-  font-style: italic;
-  color: green;
-  text-align: center;
 }
 
 a {
@@ -265,14 +197,13 @@ p > img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 24px;
   letter-spacing: 1px;
   text-align: left;
 
   @include mobile {
     text-align: center;
   }
-}
 }
 
 //
@@ -321,50 +252,6 @@ body:after {
     width: 100%;
     overflow: hidden;
     z-index: 1000;
-}
-
-.post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  font-weight: bold;
-  font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
-  line-height: 1.2;
-}
-
-.page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  font-weight: bold;
-  font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
-  line-height: 1.2;
-}
-
-.author_title{
-  text-align: center;
-  color: #939aa1;
-  letter-spacing: 2px;
-}
-
-.post_date{
-  text-align: center;
-  color: #939aa1;
-}
-
-.cd-container a {
-  color: #30434e;
-  text-decoration: none;
-  font-family: "Open Sans", sans-serif;
-}
-
-.cd-container img {
-  max-width: 100%;
-}
-
-.cd-container h1, .cd-container h2 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: bold;
 }
 
 /* --------------------------------
@@ -1013,10 +900,3 @@ Modules - reusable parts of our design
     transform: translateX(0);
   }
 }
-
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
-@import "darcula";
-@import "svg-icons";
