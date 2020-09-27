@@ -1,5 +1,6 @@
 # Name of your site (displayed in the header)
 name: Nicholas M. Boffi
+#recompile
 
 permalink: /:title/
 
