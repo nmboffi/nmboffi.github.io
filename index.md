@@ -4,7 +4,7 @@ layout: default
 <img src="../images/me_2.png" width="325" align="right" style="padding: 25px">
 
 <!--##### about me -->
-## nicholas m. boffi
+# nicholas m. boffi
 
 I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard) and [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). 
 
