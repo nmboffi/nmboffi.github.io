@@ -1,7 +1,6 @@
 ---
-layout: page
-<!--title: About-->
-permalink: /about/
+layout: default
+permalink: /
 ---
 
 # nicholas m. boffi
