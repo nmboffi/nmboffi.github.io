@@ -3,7 +3,8 @@ layout: default
 ---
 <img src="../images/me_2.png" width="325" align="right" style="padding: 25px">
 
-##### about me 
+<!--##### about me -->
+## nicholas m. boffi
 
 I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard) and [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). 
 
@@ -20,8 +21,11 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 
 ---
 ##### preprints
-1. N. M. Boffi, Stephen Tu, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data”, arXiv:2008.05952 (2020). [arXiv](https://arxiv.org/abs/2008.05952)
+1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data”, arXiv:2008.05952 (2020). [arXiv](https://arxiv.org/abs/2008.05952)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models", arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
+
+
+\* denotes equal contribution.
 
 ---
 
