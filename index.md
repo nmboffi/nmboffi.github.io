@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+### about me
 <img src="../images/me.jpg" width="250" align="left" style="padding: 25px">
 
 I’m a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard University) and [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT). I am also a student researcher at Google Brain Robotics, hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). 
