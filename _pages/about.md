@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+<!--title: About-->
 permalink: /about/
 ---
 I’m a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by Chris Rycroft (Harvard University) and Jean-Jacques Slotine (MIT). I am also a student researcher at Google Brain Robotics, hosted by Vikas Sindhwani. I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, numerical analysis, and computational mathematics. My research focuses on the use of machine learning methods in adaptive control theory and the application of dynamical systems techniques to optimization and machine learning.
