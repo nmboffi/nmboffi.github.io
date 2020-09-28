@@ -8,7 +8,7 @@ layout: default
 
 I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard) and [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). 
 
-Before attending Harvard, I was an undergraduate at Northwestern University, where I was a triple major in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I was advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel-Aviv University, where I was hosted by Amir Natan. 
+Before attending Harvard, I was an undergraduate at Northwestern University, where I was a triple major in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I was advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. 
 
 From 2015-2018, my research was funded by a Department of Energy Computational Science Graduate Fellowship.
 
