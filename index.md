@@ -36,7 +36,7 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 1. N. M. Boffi, Jean-Jacques E. Slotine, “A continuous-time analysis of distributed stochastic gradient,” Neural Computation 32, (1) (2019). [journal](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01248)
 1.  N. M. Boffi, Manish Jain, Amir Natan, “Efficient computation of the Hartree-Fock Exchange in real-space with projection operators,” Journal of Chemical Theory and Computation 12, (8) (2016). [journal](https://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00376)
 1.  N. M. Boffi, Manish Jain, Amir Natan, “Asymptotic behavior and interpretation of virtual states: the effects of confinement and of basis sets,” Journal of Chemical Physics 144, 084104 (2016). [journal](https://aip.scitation.org/doi/abs/10.1063/1.4942187?journalCode=jcp)
-1. N. M. Boffi, Judith C. Hill, Matthew G. Reuter, "Characterizing the inverses of block tridiagonal, block Toeplitz matrices," Computational Science and Discovery 8, 015001 (2015.) [journal](https://iopscience.iop.org/article/10.1088/1749-4680/8/1/015001)
+1. N. M. Boffi, Judith C. Hill, Matthew G. Reuter, "Characterizing the inverses of block tridiagonal, block Toeplitz matrices," Computational Science and Discovery 8, 015001 (2015). [journal](https://iopscience.iop.org/article/10.1088/1749-4680/8/1/015001)
 1. Matthew G. Reuter, N. M. Boffi, Mark A. Ratner, Tamar Seideman, "The role of dimensionality in the decay of surface effects," Journal of Chemical Physics 138, 084707 (2013). [journal](https://aip.scitation.org/doi/10.1063/1.4792643)
 
 ---
