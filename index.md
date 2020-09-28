@@ -12,7 +12,7 @@ Before attending Harvard, I was an undergraduate at Northwestern University, whe
 
 From 2015-2018, my research was funded by a Department of Energy Computational Science Graduate Fellowship.
 
-You can reach me at boffi at g.harvard.edu.
+I can be reached at boffi at g.harvard.edu.
 
 ---
 ##### research interests
