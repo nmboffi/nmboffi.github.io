@@ -30,7 +30,7 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 ---
 
 ##### publications
-1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinear adaptive control and prediction," Neural Computation (accepted). [arXiv](https://arxiv.org/abs/1912.13154)
+1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinear adaptive control and prediction," Neural Computation (accepted September 2020). [arXiv](https://arxiv.org/abs/1912.13154)
 1. N. M. Boffi, Chris H. Rycroft, “Coordinate transformation methodology for simulating quasi-static elastoplastic solids,” Physical Review E 5, 101 (2019). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304)
 1. N. M. Boffi, Chris H. Rycroft, “Parallel three-dimensional simulations of quasi-static elastoplastic solids,” Computer Physics Communications 107254, (2019). [journal](https://www.sciencedirect.com/science/article/pii/S0010465520300795?via%3Dihub)
 1. N. M. Boffi, Jean-Jacques E. Slotine, “A continuous-time analysis of distributed stochastic gradient,” Neural Computation 32, (1) (2019). [journal](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01248)
