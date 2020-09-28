@@ -21,7 +21,7 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 
 ---
 ##### preprints
-1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data”, arXiv:2008.05952 (2020). [arXiv](https://arxiv.org/abs/2008.05952)
+1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” arXiv:2008.05952 (2020). [arXiv](https://arxiv.org/abs/2008.05952)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models," arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
 
 
