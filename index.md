@@ -10,7 +10,7 @@ I am a sixth-year PhD student in applied mathematics at Harvard University, wher
 
 Before attending Harvard, I was an undergraduate at Northwestern University, where I was a triple major in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I was advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. 
 
-From 2015-2018, my research was funded by a Department of Energy Computational Science Graduate Fellowship.
+From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship.
 
 I can be reached at boffi at g.harvard.edu.
 
