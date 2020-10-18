@@ -17,19 +17,15 @@ I can be reached at boffi at g.harvard.edu.
 ---
 ##### research interests
 
-I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, numerical analysis, and computational mathematics. My recent research has focused on the use of machine learning methods in control theory, and the application of dynamical systems techniques to optimization and machine learning. In the past, I have focused on numerical algorithm development for the simulation of physical systems, both quantum and classical.
+I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, and computational mathematics. My recent research has focused on the use of machine learning methods in control theory, and the application of dynamical systems techniques to optimization and machine learning. In the past, I have focused on numerical algorithm development for the simulation of physical systems, both quantum and classical.
 
 ---
 ##### preprints
-1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” arXiv:2008.05952 (2020). [arXiv](https://arxiv.org/abs/2008.05952)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models," arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
-
-
-\* denotes equal contribution.
-
 ---
 
 ##### publications
+1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” CoRL 2020 (accepted October 2020). [arXiv](https://arxiv.org/abs/2008.05952)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinear adaptive control and prediction," Neural Computation (accepted September 2020). [arXiv](https://arxiv.org/abs/1912.13154)
 1. N. M. Boffi, Chris H. Rycroft, “Coordinate transformation methodology for simulating quasi-static elastoplastic solids,” Physical Review E 5, 101 (2019). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304)
 1. N. M. Boffi, Chris H. Rycroft, “Parallel three-dimensional simulations of quasi-static elastoplastic solids,” Computer Physics Communications 107254, (2019). [journal](https://www.sciencedirect.com/science/article/pii/S0010465520300795?via%3Dihub)
@@ -39,4 +35,5 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 1. N. M. Boffi, Judith C. Hill, Matthew G. Reuter, "Characterizing the inverses of block tridiagonal, block Toeplitz matrices," Computational Science and Discovery 8, 015001 (2015). [journal](https://iopscience.iop.org/article/10.1088/1749-4680/8/1/015001)
 1. Matthew G. Reuter, N. M. Boffi, Mark A. Ratner, Tamar Seideman, "The role of dimensionality in the decay of surface effects," Journal of Chemical Physics 138, 084707 (2013). [journal](https://aip.scitation.org/doi/10.1063/1.4792643)
 
+\* denotes equal contribution.
 ---
