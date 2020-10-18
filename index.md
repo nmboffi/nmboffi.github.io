@@ -36,4 +36,5 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 1. Matthew G. Reuter, N. M. Boffi, Mark A. Ratner, Tamar Seideman, "The role of dimensionality in the decay of surface effects," Journal of Chemical Physics 138, 084707 (2013). [journal](https://aip.scitation.org/doi/10.1063/1.4792643)
 
 \* denotes equal contribution.
+
 ---
