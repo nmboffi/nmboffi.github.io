@@ -17,7 +17,7 @@ I can be reached at boffi at g.harvard.edu.
 ---
 ##### research interests
 
-I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, and computational mathematics. My recent research has focused on the use of machine learning methods in control theory, and the application of dynamical systems techniques to optimization and machine learning. In the past, I have focused on numerical algorithm development for the simulation of physical systems, both quantum and classical. I am increasingly excited about the application of machine learning methods in the solution of physical problems.
+I am broadly interested in nonlinear dynamical systems, control theory, machine learning, optimization, and computational mathematics. My recent research has focused on the use of machine learning methods in control theory, and the application of dynamical systems techniques to optimization and machine learning. In the past, I have focused on numerical algorithm development for the simulation of physical systems, both quantum and classical. I am increasingly excited about the application of machine learning methods to the solution of physical problems.
 
 ---
 ##### preprints
