@@ -26,7 +26,7 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 
 ---
 ##### publications
-1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” Conference on Robot Learning (CoRL) 2020 (accepted October 2020). [conference](https://corlconf.github.io/paper_290/) [arXiv](https://arxiv.org/abs/2008.05952)
+1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” Conference on Robot Learning (CoRL) 2020 (accepted October 2020). [conference](https://corlconf.github.io/paper_290/), [arXiv](https://arxiv.org/abs/2008.05952)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinear adaptive control and prediction," Neural Computation (accepted September 2020). [arXiv](https://arxiv.org/abs/1912.13154)
 1. N. M. Boffi, Chris H. Rycroft, “Coordinate transformation methodology for simulating quasi-static elastoplastic solids,” Physical Review E 101, 053304 (2020). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304)
 1. N. M. Boffi, Chris H. Rycroft, “Parallel three-dimensional simulations of quasi-static elastoplastic solids,” Computer Physics Communications 257, 107254 (2020). [journal](https://www.sciencedirect.com/science/article/pii/S0010465520300795?via%3Dihub)
