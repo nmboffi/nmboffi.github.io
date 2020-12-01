@@ -21,6 +21,7 @@ I am broadly interested in nonlinear dynamical systems, control theory, machine 
 
 ---
 ##### preprints
+1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "Regret bounds for adaptive nonlinear control," Learning for Dynamics and Control (submitted) [arxiv](https://arxiv.org/abs/2011.13101)
 1. N. M. Boffi, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models," arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
 
 ---
