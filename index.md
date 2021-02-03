@@ -6,7 +6,7 @@ layout: default
 <!--##### about me -->
 # nicholas m. boffi
 
-I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT) and [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). 
+I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT) and [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). In September 2021, I'll be joining the [Courant Institute][https://www.courant.nyu.edu/] as a Courant Instructor/Assistant Professor in applied mathematics.
 
 Before attending Harvard, I was an undergraduate at Northwestern University, where I was a triple major in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I was advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. 
 
