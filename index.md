@@ -16,7 +16,7 @@ I can be reached at boffi at g.harvard.edu.
 
 ---
 ##### research interests
-I am interested in applied and computational mathematics. My recent research has focused on the use of machine learning methods in control theory and the application of tools from dynamical systems theory to optimization and machine learning. My earlier research focused on numerical algorithm development and implementation for the simulation of disordered and quantum systems. I am currently excited about developing principled methods for incorporating the remarkable ability of neural networks to approximate high-dimensional functions into classical approaches in computational mathematics.
+I am interested in applied and computational mathematics. My recent research has focused on the use of machine learning methods in control theory and the application of tools from dynamical systems theory to optimization and machine learning. My earlier research focused on numerical algorithm development and implementation for the simulation of disordered and quantum systems. I am currently excited about understanding how the remarkable ability of neural networks to approximate high-dimensional functions can be incorporated into classical approaches in computational mathematics.
 
 ---
 ##### preprints
