@@ -20,7 +20,7 @@ I am interested in applied and computational mathematics. My recent research has
 
 ---
 ##### preprints
-1. Katiana Kontolati, Darius Alex-Williams, N. M. Boffi, Michael L. Falk, Chris H. Rycroft, and Michael D. Shields. "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids," arXiv:2103.00779 (2021) [arxiv](https://arxiv.org/abs/2103.00779)
+1. Katiana Kontolati, Darius Alix-Williams, N. M. Boffi, Michael L. Falk, Chris H. Rycroft, and Michael D. Shields. "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids," arXiv:2103.00779 (2021) [arxiv](https://arxiv.org/abs/2103.00779)
 1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "Regret bounds for adaptive nonlinear control," Learning for Dynamics and Control (submitted) [arXiv](https://arxiv.org/abs/2011.13101)
 1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models," arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
 
