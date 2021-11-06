@@ -16,7 +16,7 @@ I can be reached at boffi at cims dot nyu dot edu.
 ##### research interests
 I am an applied and computational mathematician. I am currently interested in the mathematical foundations of machine learning, and in understanding how the success of machine learning in domains such as image recognition and robotics can be brought to problems in scientific computing and computational mathematics.
 
-Much of my research revolves around the development and implementation of new numerical and computational methods. In the past, I have worked on numerical methods for disordered, biological, and quantum systems, as well as new online learning-inspired techniques for real-time control of dynamical systems. My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design new algorithms with provable guarantees.
+My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design and efficiently implement new algorithms with provable guarantees. In the past, I have worked on numerical methods for disordered, biological, and quantum systems, as well as new online learning-inspired techniques for real-time control of dynamical systems.
 
 ---
 ##### preprints
