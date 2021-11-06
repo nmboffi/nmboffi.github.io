@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="../images/me_elizabeth_park.jpg" width="375" align="right" style="padding: 10px">
+<img src="../images/me_elizabeth_park.jpg" width="350" align="right" style="padding: 10px">
 
 <!--##### about me -->
 # nicholas m. boffi
