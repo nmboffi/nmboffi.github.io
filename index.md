@@ -3,7 +3,7 @@ layout: default
 ---
 <!--##### about me -->
 # nicholas m. boffi
-<img src="../images/me_elizabeth_park.jpg" width="350" align="right" style="padding: 12.5px">
+<img src="../images/me_elizabeth_park.jpg" width="350" align="right" style="padding: 15px">
 
 <div style="text-align: left">
 I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Joan Bruna](https://cims.nyu.edu/~bruna/) and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, where I was advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) and [Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao) (MIT). During the last year of my PhD, I was also a student researcher at Google Brain, where I worked primarily with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF).
