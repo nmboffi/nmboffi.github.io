@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<img src="../images/me_2.png" width="325" align="right" style="padding: 25px">
+<img src="../images/me_elizabeth_park.jpg" width="325" align="right" style="padding: 25px">
 
 <!--##### about me -->
 # nicholas m. boffi
 
-I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Joan Bruna](https://cims.nyu.edu/~bruna/) and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, where I was advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) and Jean-Jacques Slotine (MIT). During the last year of my PhD, I was also a student researcher at Google Brain, working primarily with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF).
+I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Joan Bruna](https://cims.nyu.edu/~bruna/) and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, where I was advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) and [Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao) (MIT). During the last year of my PhD, I was also a student researcher at Google Brain, where I worked primarily with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF).
 
-Before graduate school, I was an undergraduate at Northwestern University, where I triple majored in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I spent four wonderful years working on problems in theoretical chemistry advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan and focused on numerical methods in quantum chemistry.
+Before graduate school, I was an undergraduate at Northwestern University, where I triple majored in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I spent four wonderful years working on problems in theoretical chemistry advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. While in Tel-Aviv, my research was focused on the development of numerical methods for quantum chemistry.
 
 I can be reached at boffi at cims dot nyu dot edu.
 
@@ -16,7 +16,7 @@ I can be reached at boffi at cims dot nyu dot edu.
 ##### research interests
 I am an applied and computational mathematician. I am currently interested in the mathematical foundations of machine learning, and in understanding how the success of machine learning in domains such as image recognition and robotics can be brought to problems in scientific computing and computational mathematics.
 
-My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design and efficiently implement new algorithms with provable guarantees. In the past, I have worked on numerical methods for disordered, biological, and quantum systems, as well as new online learning-inspired techniques for real-time control of dynamical systems.
+My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design and efficiently implement new algorithms with provable guarantees. In the past, I have worked on numerical methods for simulating disordered, biological, and quantum systems, as well as online learning algorithms for real-time control of dynamical systems.
 
 ---
 ##### preprints
