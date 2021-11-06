@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-<img src="../images/me_elizabeth_park.jpg" width="350" align="right" style="padding: 10px">
-
 <!--##### about me -->
 # nicholas m. boffi
+<img src="../images/me_elizabeth_park.jpg" width="350" align="right" style="padding: 12.5px">
 
+<div style="text-align: left">
 I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Joan Bruna](https://cims.nyu.edu/~bruna/) and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, where I was advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) and [Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao) (MIT). During the last year of my PhD, I was also a student researcher at Google Brain, where I worked primarily with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF).
 
 Before graduate school, I was an undergraduate at Northwestern University, where I triple majored in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I spent four wonderful years working on problems in theoretical chemistry with [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. While in Tel Aviv, my research was focused on the development of numerical methods for quantum chemistry.
 
 I can be reached at boffi at cims dot nyu dot edu.
+ </div>
 
 ---
 ##### research interests
