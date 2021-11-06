@@ -6,28 +6,28 @@ layout: default
 <!--##### about me -->
 # nicholas m. boffi
 
-I am a sixth-year PhD student in applied mathematics at Harvard University, where I am co-advised by [Jean-Jacques Slotine](http://web.mit.edu/nsl/www/) (MIT) and [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) (Harvard). I am also a student researcher at Google Brain Robotics, where I am hosted by [Vikas Sindhwani](https://vikas.sindhwani.org/). In September 2021, I'll be joining the [Courant Institute](https://www.courant.nyu.edu/) as a Courant Instructor/Assistant Professor in applied mathematics.
+I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Joan Bruna](https://cims.nyu.edu/~bruna/) and [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, where I was advised by [Chris Rycroft](http://people.seas.harvard.edu/~chr/research/) and Jean-Jacques Slotine (MIT). During the last year of my PhD, I was also a student researcher at Google Brain, working primarily with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF).
 
-Before attending Harvard, I was an undergraduate at Northwestern University, where I was a triple major in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I was advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan. 
+Before graduate school, I was an undergraduate at Northwestern University, where I triple majored in mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I spent four wonderful years advised by [Tamar Seideman](https://sites.northwestern.edu/seideman/) working on problems in theoretical chemistry. From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I was hosted by Amir Natan and focused on numerical methods quantum chemistry.
 
-From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship.
-
-I can be reached at boffi at g.harvard.edu.
+I can be reached at boffi at cims dot nyu dot edu.
 
 ---
 ##### research interests
-I am interested in applied and computational mathematics. My recent research has focused on the use of machine learning methods in control theory and the application of tools from dynamical systems theory to optimization and machine learning. My earlier research focused on numerical algorithm development and implementation for the simulation of disordered and quantum systems. I am currently excited about understanding how the remarkable ability of neural networks to approximate high-dimensional functions can be incorporated into classical approaches in computational mathematics.
+I am an applied and computational mathematician. I am currently interested in the mathematical foundations of machine learning, and in understanding how the success of machine learning in domains such as image recognition and robotics can be brought to problems in scientific computing and computational mathematics.
+
+Much of my research revolves around the development and implementation of new numerical and computational methods. In the past, I have worked on numerical methods for disordered, biological, and quantum systems, as well as new online learning-inspired techniques for real-time control of dynamical systems. My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design new algorithms with provable guarantees.
 
 ---
 ##### preprints
-1. Katiana Kontolati, Darius Alix-Williams, N. M. Boffi, Michael L. Falk, Chris H. Rycroft, and Michael D. Shields. "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids," arXiv:2103.00779 (2021) [arxiv](https://arxiv.org/abs/2103.00779)
-1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "Regret bounds for adaptive nonlinear control," Learning for Dynamics and Control (submitted) [arXiv](https://arxiv.org/abs/2011.13101)
 1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "The Reflectron: Exploiting geometry for learning generalized linear models," arXiv:2006.08575 (2020). [arXiv](https://arxiv.org/abs/2006.08575)
 
 ---
 ##### publications
-1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” Conference on Robot Learning (CoRL) 2020 (accepted October 2020). [conference](https://corlconf.github.io/paper_290/), [arXiv](https://arxiv.org/abs/2008.05952)
-1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinear adaptive control and prediction," Neural Computation (accepted September 2020). [arXiv](https://arxiv.org/abs/1912.13154)
+1. Katiana Kontolati, Darius Alix-Williams, N. M. Boffi, Michael L. Falk, Chris H. Rycroft, and Michael D. Shields. "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids," Acta Materialia, 215:1170008 (2021) [arxiv](https://arxiv.org/abs/2103.00779) [journal] (https://www.sciencedirect.com/science/article/pii/S1359645421003888?casa_token=XTA7UrT9sm4AAAAA:vhoCkbtfgmyMECwOase6qvdob-mNXydktT7sRGMu79eskMPmlFF05yOt-b6jBbDnC2XboPP0ww)
+1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "Regret bounds for adaptive nonlinear control," Learning for Dynamics and Control (L4DC 2021) *selected for oral presentation* [arXiv](https://arxiv.org/abs/2011.13101)
+1. N. M. Boffi\*, Stephen Tu\*, Nikolai Matni, Jean-Jacques E. Slotine, Vikas Sindhwani, “Learning stability certificates from data,” Conference on Robot Learning (CoRL) 2020. [conference](https://corlconf.github.io/paper_290/), [arXiv](https://arxiv.org/abs/2008.05952)
+1. N. M. Boffi, Jean-Jacques E. Slotine, "Implicit regularization and momentum algorithms in nonlinearly parameterized adaptive control and prediction," Neural Computation, 33(3):590-673, 03 2021. *featured on the cover*. [arXiv](https://arxiv.org/abs/1912.13154) [journal] (https://direct.mit.edu/neco/article-abstract/33/3/590/97492/Implicit-Regularization-and-Momentum-Algorithms-in?redirectedFrom=fulltext)
 1. N. M. Boffi, Chris H. Rycroft, “Coordinate transformation methodology for simulating quasi-static elastoplastic solids,” Physical Review E 101, 053304 (2020). [journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304)
 1. N. M. Boffi, Chris H. Rycroft, “Parallel three-dimensional simulations of quasi-static elastoplastic solids,” Computer Physics Communications 257, 107254 (2020). [journal](https://www.sciencedirect.com/science/article/pii/S0010465520300795?via%3Dihub)
 1. N. M. Boffi, Jean-Jacques E. Slotine, “A continuous-time analysis of distributed stochastic gradient,” Neural Computation 32, 36-96 (2020). [journal](https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01248)
