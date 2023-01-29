@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pbout
+title: about
 permalink: /about/
 ---
 <!--##### about me -->
