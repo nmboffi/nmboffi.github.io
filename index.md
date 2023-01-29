@@ -22,7 +22,8 @@ I am an applied and computational mathematician. I am currently interested in un
 
 ---
 ##### publications
-1. Thomas Zhang, Stephen Tu, N. M. Boffi, Jean-Jacques Slotine, and Nikolai Matni. "Adversarially robust stability certificates can be sample efficient," Learning for Dynamics and Control (L4DC 2022) [PMLR](https://proceedings.mlr.press/v168/zhang22a.html)
+1. N. M. Boffi, Stephen Tu and Jean-Jacques Slotine. "Non-parametric adaptive control and prediction: theory and randomized algorithms," Journal of Machine Learning Research 23 (2022) 1-46 [journal](https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf) [conference](https://ieeexplore.ieee.org/abstract/document/9682907/) [arXiv](https://arxiv.org/abs/2106.03589)
+1. Thomas Zhang, Stephen Tu, N. M. Boffi, Jean-Jacques Slotine, and Nikolai Matni. "Adversarially robust stability certificates can be sample efficient," Learning for Dynamics and Control (L4DC 2022) [conference](https://proceedings.mlr.press/v168/zhang22a.html) [arXiv](https://arxiv.org/abs/2112.10690)
 1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "The role of optimization geometry in single neuron learning," International Conference on Artificial Intelligence and Statistics (2022). [arXiv](https://arxiv.org/abs/2006.08575)
 1. Katiana Kontolati, Darius Alix-Williams, N. M. Boffi, Michael L. Falk, Chris H. Rycroft, and Michael D. Shields. "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids," Acta Materialia, 215:1170008 (2021) [arxiv](https://arxiv.org/abs/2103.00779), [journal](https://www.sciencedirect.com/science/article/pii/S1359645421003888?casa_token=XTA7UrT9sm4AAAAA:vhoCkbtfgmyMECwOase6qvdob-mNXydktT7sRGMu79eskMPmlFF05yOt-b6jBbDnC2XboPP0ww)
 1. N. M. Boffi, Stephen Tu, Jean-Jacques E. Slotine, "Regret bounds for adaptive nonlinear control," Learning for Dynamics and Control (L4DC 2021) **selected for oral presentation** [arXiv](https://arxiv.org/abs/2011.13101)
