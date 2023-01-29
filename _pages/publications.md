@@ -1,14 +1,14 @@
 ---
 layout: page
-title:
+title: publications
 permalink: /publications/
 ---
-### preprints
+##### preprints
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, and Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution." [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1.abstract)
 1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," arXiv:2206.04642. [arXiv](https://arxiv.org/abs/2206.04642)
 
 ---
-### publications
+##### articles
 1. N. M. Boffi\*, Stephen Tu\*, and Jean-Jacques Slotine. "Non-parametric adaptive control and prediction: theory and randomized algorithms," Journal of Machine Learning Research 23 (2022) 1-46. [journal](https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf), [conference](https://ieeexplore.ieee.org/abstract/document/9682907/), [arXiv](https://arxiv.org/abs/2106.03589)
 1. Thomas Zhang, Stephen Tu, N. M. Boffi, Jean-Jacques Slotine, and Nikolai Matni. "Adversarially robust stability certificates can be sample efficient," Learning for Dynamics and Control (L4DC 2022). [conference](https://proceedings.mlr.press/v168/zhang22a.html), [arXiv](https://arxiv.org/abs/2112.10690)
 1. N. M. Boffi\*, Stephen Tu\*, Jean-Jacques E. Slotine, "The role of optimization geometry in single neuron learning," International Conference on Artificial Intelligence and Statistics (2022). [conference](https://proceedings.mlr.press/v151/boffi22a.html), [arXiv](https://arxiv.org/abs/2006.08575)
