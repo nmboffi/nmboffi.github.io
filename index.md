@@ -13,7 +13,7 @@ I can be reached at boffi at cims dot nyu dot edu.
 
 ---
 ##### research interests
-I am an applied and computational mathematician. I am currently interested in understanding how the successes of neural networks in domains such as image recognition, strategic games, and robotics can be brought to problems in scientific computing and computational mathematics. My research draws on techniques from numerical analysis, dynamical systems theory, probability theory, high-dimensional statistics, and optimization to design, implement, and demonstrate the effectiveness of new algorithms with provable guarantees. In the past, I have worked on numerical methods for simulating disordered, biological, and quantum systems, as well as online learning algorithms for real-time control of dynamical systems.
+I am an applied and computational mathematician. I am currently interested in understanding how the successes of neural networks in domains such as image recognition, strategic games, and robotics can be brought to problems in scientific computing and computational mathematics. My research draws on techniques from numerical analysis, dynamical systems, probability, high-dimensional statistics, and optimization to design, implement, and demonstrate the effectiveness of new algorithms with provable guarantees. In the past, I have worked on numerical methods for simulating disordered, biological, and quantum systems, as well as online learning algorithms for real-time control of dynamical systems.
 
 ---
 ##### preprints
