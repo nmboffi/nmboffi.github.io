@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: publications
+permalink: /publications/
 ---
 ##### preprints
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, and Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution." [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1.abstract)
