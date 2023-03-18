@@ -3,6 +3,7 @@ layout: page
 title: preprints
 permalink: /publications/
 ---
+1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." [arXiv](https://arxiv.org/pdf/2303.08797v1.pdf)
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, and Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution." [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1.abstract)
 1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," arXiv:2206.04642. [arXiv](https://arxiv.org/abs/2206.04642)
 
