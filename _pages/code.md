@@ -1,6 +1,6 @@
---
+---
 layout: page
-title: 
+title: code
 permalink: /code/
 ---
 [score-based transport modeling](https://github.com/nmboffi/sbtm)
