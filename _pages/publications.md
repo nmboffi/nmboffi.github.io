@@ -3,12 +3,12 @@ layout: page
 title: preprints
 permalink: /publications/
 ---
-1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." [arXiv](https://arxiv.org/pdf/2303.08797v1.pdf)
+1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." / [arXiv](https://arxiv.org/pdf/2303.08797v1.pdf)
 
 
 ---
 # publications
-1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," Machine Learning: Science and Technology (2023). [journal](https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta), [arXiv](https://arxiv.org/abs/2206.04642)
+1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," Machine Learning: Science and Technology (2023). / [journal](https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta) / [arXiv](https://arxiv.org/abs/2206.04642)
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution," eLife 12 (2023). [journal](https://elifesciences.org/reviewed-preprints/87895), [biorXiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1)
 1. Saminda Abeyruwan, Alex Bewley, N. M. Boffi, Krzysztof Marcin Choromanski, David B D’Ambrosio, Deepali Jain, Pannag R Sanketi, Anish Shankar, Vikas Sindhwani, Sumeet Singh, Jean-Jacques Slotine, Stephen Tu. "Agile Catching with Whole-Body MPC and Blackbox Policy Learning," Learning for Dynamics and Control (L4DC 2023), PMLR 211:851-863, 2023. [conference](https://proceedings.mlr.press/v211/abeyruwan23a.html)
 1. N. M. Boffi\*, Stephen Tu\*, and Jean-Jacques Slotine. "Non-parametric adaptive control and prediction: theory and randomized algorithms," Journal of Machine Learning Research 23 (2022) 1-46. [journal](https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf), [conference](https://ieeexplore.ieee.org/abstract/document/9682907/), [arXiv](https://arxiv.org/abs/2106.03589)
