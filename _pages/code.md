@@ -3,7 +3,7 @@ layout: page
 title: code
 permalink: /code/
 ---
-Below are some pieces of open source software that I've written for research projects. I hope you'll find them useful. They're listed in reverse-chronological order for when they were written, not necessarily when they were released.
+Below are some pieces of open source software that I've written for past and present research projects. I hope you'll find them useful. They're listed in reverse-chronological order in terms of when they were originally written, though some were released quite some time later.
 
 The latest code is mostly built upon neural network libraries in Python such as ``jax`` and ``PyTorch``, with intended applications in scientific computing and generative modeling. The older code is written in ``C++`` (or even ``FORTRAN``) and uses more classical techniques, such as parallel programming in ``openmp`` and ``MPI``. The focus was mostly on large-scale and high-resolution simulation of disordered systems from statistical physics and continuum mechanics.
 
@@ -17,4 +17,4 @@ The latest code is mostly built upon neural network libraries in Python such as 
 
 1. [shear transformation zone++](https://github.com/nmboffi/stzpp) (with [Chris Rycroft](https://people.math.wisc.edu/~chr/))
 
-1. [real-space Hartree-Fock](https://real-space.org) (with [Amir Natan](http://www.eng.tau.ac.il/~amirn/), note: I only contributed the Hartree-Fock implementation, not the entire package)
+1. [real-space Hartree-Fock](https://real-space.org) (with [Amir Natan](http://www.eng.tau.ac.il/~amirn/), note: only the Hartree-Fock implementation, not the entire package)
