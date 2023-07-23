@@ -17,4 +17,4 @@ The latest code is mostly built upon neural network libraries in Python such as 
 
 1. [shear transformation zone++](https://github.com/nmboffi/stzpp) (with [Chris Rycroft](https://people.math.wisc.edu/~chr/))
 
-1. [real-space Hartree-Fock](https://real-space.org) (with [Amir Natan](http://www.eng.tau.ac.il/~amirn/), note: only the Hartree-Fock implementation, not the entire package)
+1. [real-space Hartree-Fock](https://real-space.org) (with [Amir Natan](http://www.eng.tau.ac.il/~amirn/), note: only the Hartree-Fock implementation)
