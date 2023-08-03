@@ -16,7 +16,7 @@ I am an applied and computational mathematician. My current research centers on 
 
 My research draws on techniques from numerical analysis, dynamical systems, probability, and optimization to design, implement, and analyze new algorithms with provable guarantees.
 
-**I will be applying for tenure-track faculty positions in the 2023-2024 job cycle.**
+**I will be applying for tenure-track faculty positions in the 2023-2024 academic job cycle.**
 
 ---
 ## teaching
