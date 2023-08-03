@@ -14,7 +14,9 @@ I can be reached at boffi at cims dot nyu dot edu.
 ## research interests
 I am an applied and computational mathematician. My current research centers on learning dynamical systems for high-dimensional scientific computing and generative modeling; these fascinating areas are linked by the study of dynamical transport of measure. Previously, I worked on online learning algorithms for real-time (adaptive) control of dynamical systems, as well as numerical method development for the simulation of disordered, biological, and quantum systems,
 
-My research draws on techniques from numerical analysis, dynamical systems, probability, and optimization to design, implement, and analyze new algorithms with provable guarantees. 
+My research draws on techniques from numerical analysis, dynamical systems, probability, and optimization to design, implement, and analyze new algorithms with provable guarantees.
+
+**I will be applying for tenure-track faculty positions in the 2023-2024 job cycle.**
 
 ---
 ## teaching
