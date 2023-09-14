@@ -20,6 +20,7 @@ My research draws on techniques from numerical analysis, dynamical systems, prob
 
 ---
 ## teaching
+NYU Courant, Fall 2023: Linear and Nonlinear Optimization\\
 NYU Courant, Spring 2023: Linear and Nonlinear Optimization\\
 NYU Courant, Fall 2022:   Numerical Analysis\\
 NYU Courant, Spring 2022: Linear and Nonlinear Optimization\\
