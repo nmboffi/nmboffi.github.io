@@ -3,7 +3,10 @@ layout: page
 title: preprints
 permalink: /publications/
 ---
-1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." [arXiv](https://arxiv.org/pdf/2303.08797v1.pdf)
+1. Michael S. Albergo, Mark Goldstein, Nicholas M. Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden. "Stochastic interpolants with data-dependent couplings." arXiv:2310.03725, 2023. [arXiv](https://arxiv.org/abs/2310.03725)
+1. Michael S. Albergo, Nicholas M. Boffi, Michael Lindsey, and Eric Vanden-Eijnden. "Multimarginal generative modeling with stochastic interpolants." arXiv:2310.03695, 2023. [arXiv](https://arxiv.org/abs/2310.03695)
+1. Nicholas M. Boffi and Eric Vanden-Eijnden. "Deep learning probability flows and entropy production rates in active matter." arXiv:2309.12991, 2023. [arXiv](https://arxiv.org/abs/2309.12991)
+1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." arXiv:2303.08797 (2023). [arXiv](https://arxiv.org/abs/2303.08797)
 
 
 ---
