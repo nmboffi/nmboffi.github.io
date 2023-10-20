@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: github.com/nmboffi/nmboffi.github.io # Path to your GitHub repository
+  repo: nmboffi/nmboffi.github.io # Path to your GitHub repository
   branch: master # Branch to update (optional; defaults to main)
 
 media_folder: "images"  # Folder where user uploaded files should go
