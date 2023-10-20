@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <meta name="theme-color" content="#000000">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body>
@@ -40,17 +40,21 @@
           {{ content }}
         </div>
       </div>
+
+    <!-- Add a menu:
+     Log in / Sign up - when the user is not logged in
+     Username / Log out - when the user is logged in
+    -->
+    <div data-netlify-identity-menu></div>
+
+    <!-- Add a simpler button:
+      Simple button that will open the modal.
+    -->
+    <div data-netlify-identity-button>Login with Netlify Identity</div>
   </body>
 
-  <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", (user) => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-  </script>
+  <!DOCTYPE html>
+<html>
+<head>
+  <title>A static website</title>
 </html>
