@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: nmboffi/nmboffi.github.io # Path to your GitHub repository
   branch: master # Branch to update (optional; defaults to main)
 
