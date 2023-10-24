@@ -944,3 +944,21 @@ Modules - reusable parts of our design
     transform: translateX(0);
   }
 }
+
+/* Default styling for larger screens */
+.profile-pic {
+  width: 300px;
+  height: auto;
+  float: right;
+  padding: 15px;
+}
+
+/* Mobile styling */
+@media only screen and (max-width: 768px) {
+  .profile-pic {
+    width: 100%;
+    height: auto;
+    float: right;
+    padding: 15px 0;
+  }
+}
