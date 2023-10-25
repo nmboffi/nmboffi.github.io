@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: dynamical transport of measure
 permalink: /research/
 ---
-# dynamical transport of measure
 <img src="../images/figs/sbtm/dynamical_transport.png" class="right_figure">
 Rooted in the theory of optimal transport, dynamical transport of measure studies the time-evolution of a probability distribution from two complementary perspectives: an Eulerian perspective, whereby a partial differential equation describes the evolution of the measure itself, and a Lagrangian perspective, whereby an ordinary or stochastic differential equation describes the evolution of samples. We develop methods for high-dimensional scientific computing and for generative modeling built upon dynamical transport of measure.
 
