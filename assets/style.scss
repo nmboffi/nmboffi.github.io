@@ -962,3 +962,100 @@ Modules - reusable parts of our design
     padding: 15px 0;
   }
 }
+
+
+.right_figure {
+  width: 425px;
+  height: auto;
+  float: right;
+  padding: 15px;
+}
+
+/* Mobile styling */
+@media only screen and (max-width: 768px) {
+  .right_figure {
+    width: 100%;
+    height: auto;
+    float: right;
+    padding: 15px 0;
+  }
+}
+
+
+.left_figure {
+  width: 425px;
+  height: auto;
+  float: left;
+  padding: 15px;
+}
+
+/* Mobile styling */
+@media only screen and (max-width: 768px) {
+  .left_figure {
+    width: 100%;
+    height: auto;
+    float: left;
+    padding: 15px 0;
+  }
+}
+
+
+/* For top or bottom alignment */
+.figure-container-horizontal-full {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.figure-container-horizontal-shared {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.figure-container-vertical-left,
+.figure-container-vertical-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.figure-container-vertical-left {
+    float: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 25px;
+    width: 50%;
+}
+
+.figure-container-vertical-right {
+    float: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    width: 50%;
+}
+
+.figure-container-horizontal-full .figure {
+  width: 100%;
+  text-align: center;
+}
+
+.figure-container-horizontal-shared .figure {
+  width: 50%;
+  text-align: center;
+}
+
+.figure-container-vertical-left .figure {
+  width: 100%;
+  text-align: center;
+}
+
+.figure-container-vertical-right .figure {
+  width: 100%;
+  text-align: center;
+}
