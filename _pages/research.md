@@ -48,9 +48,9 @@ We have shown how stochastic interpolants can be built upon either ordinary diff
 </div>
 
 
-For many nonlinear dynamical systems, learning a control input online to counteract modeling errors and unforeseen disturbances can offer significant performance improvements at little computational cost. Online learning can be used independently, or can be combined with an offline learning phase (for example, implemented with reinforcement learning) to improve robustness to distribution shift. The field of nonlinear adaptive control studies the design of online learning mechanisms that are provably convergent, and that guarantee stability of the joint learning and system dynamics. 
+For many nonlinear dynamical systems, learning a control input online to counteract modeling errors and unforeseen disturbances can offer significant performance improvements at little computational cost. Online learning can be used on its own, or can be combined with an offline learning phase (for example, via reinforcement learning) to improve robustness to distribution shift of the offline-learned policy. The field of nonlinear adaptive control studies the design of online learning mechanisms that are provably convergent, and that guarantee stability of the joint learning and system dynamics. 
 
-In collaboration with Professor Jean-Jacques Slotine (MIT), Professor Stephen Tu (University of Southern California, previously at Google Brain), and Dr. Vikas Sindhwani (Google DeepMind), we have developed new adaptive algorithms that leverage recent advances in machine learning, such as implicit regularization, regret bounds, nonparametric function classes, and learning of adaptive laws directly from data. We have also shown how continuous-time proof techniques from nonlinear control can be used to obtain guarantees for machine learning algorithms.
+In collaboration with Professor Jean-Jacques Slotine (MIT), Professor Stephen Tu (University of Southern California, previously at Google DeepMind), and Dr. Vikas Sindhwani (Google DeepMind), we have developed new adaptive algorithms that leverage recent advances in machine learning. Examples include adaptive algorithms that are implicitly regularized, online convex optimization-inspired algorithms with finite-time guarantees on the regret, adaptive algorithms that estimate over nonparametric function classes or deep networks for high-dimensional problems, and adaptive laws that are learned directly from data. We have also shown how continuous-time proof techniques from nonlinear control can be used to obtain guarantees for traditional supervised machine learning algorithms.
 
 <div class="figure-container-horizontal-shared">
   <div class="figure">
@@ -73,7 +73,7 @@ In collaboration with Professor Jean-Jacques Slotine (MIT), Professor Stephen Tu
 ---
 
 # scientific computing
-We develop numerical algorithms and high-performance implementations to solve modeling problems across the sciences and engineering. We release our simulation software for use by the community.
+We develop numerical algorithms and high-performance implementations to solve modeling problems across the sciences and engineering. We have diverse interests throughout disparate scientific domains, and we release our simulation software for use by the scientific community.
 
 ## population genetics
 <div class="figure-container-vertical-right">
