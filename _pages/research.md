@@ -52,7 +52,7 @@ We have shown how stochastic interpolants can be built upon either ordinary diff
   </div>
 </div>
 
-We develop tools based on dynamical systems theory to analyze machine learning algorithms in the continuous-time limit, and develop new algorithms based on machine learning for online control of nonlinear dynamical systems.
+We develop tools based on dynamical systems theory to analyze machine learning algorithms in the continuous-time limit, and we develop new algorithms based on machine learning for online control of nonlinear dynamical systems.
 
 For many nonlinear dynamical systems, learning a control input online to counteract modeling errors and unforeseen disturbances can offer significant performance improvements at little computational cost. Online learning can be used on its own, or can be combined with an offline learning phase (for example, via reinforcement learning) to improve robustness to distribution shift of the offline-learned policy. The field of nonlinear adaptive control studies the design of online learning mechanisms that are provably convergent, and that guarantee stability of the joint learning and system dynamics, a complex feedback system consisting of a physical system and a continuous-time learning algorithm. 
 
@@ -81,7 +81,7 @@ In collaboration with Professor Jean-Jacques Slotine (MIT), Professor Stephen Tu
 # scientific computing
 We develop numerical algorithms and high-performance implementations to solve modeling problems across the sciences and engineering. We have diverse interests throughout disparate scientific domains, and we release our simulation software for use by the scientific community.
 
-## population genetics
+## evolutionary dynamics and spin glass physics
 <div class="figure-container-vertical-right">
   <div class="figure">
     <img src="../images/figs/lenski/network.png">
@@ -98,7 +98,7 @@ In collaboration with Professor Ariel Amir (Harvard University, now at Weizmann 
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution," eLife 12 (2023). [journal](https://elifesciences.org/reviewed-preprints/87895) / [biorXiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1)
 
 
-<h2 style="text-align: right;">modeling of amorphous glasses</h2>
+<h2 style="text-align: right;">numerical methods for amorphous glasses</h2>
 <div class="figure-container-vertical-left">
   <div class="figure">
     <img src="../images/figs/bmg_trans/LE_cropped.png">
@@ -116,7 +116,7 @@ In collaboration with Professor Chris Rycroft at Harvard University (now at Univ
 1. N. M. Boffi, Chris H. Rycroft, “Parallel three-dimensional simulations of quasi-static elastoplastic solids,” Computer Physics Communications 257, 107254 (2020). [journal](https://www.sciencedirect.com/science/article/pii/S0010465520300795?via%3Dihub) / [arXiv](https://arxiv.org/abs/1904.03808)
 
 
-## quantum chemistry
+## numerical methods for quantum chemistry
 <img src="../images/figs/fock/fock.png" class="right_figure">
 
 Density functional theory is frequently used to compute ground-state electronic properties of condensed matter systems. Hybrid functionals, which mix a fraction of the Hartree-Fock exchange with standard exchange-correlation functionals, have shown impressive success in predicting experimentally-determined electronic properties, but are often implemented using *ad-hoc* basis sets. Classical methods from numerical analysis offer a compelling alternative, as their convergence and accuracy can be guaranteed rigorously, but they often come with high computational expense. 
