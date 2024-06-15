@@ -2,7 +2,7 @@
 layout: default
 ---
 # nicholas m. boffi
-<img src="../images/me_elizabeth_park.jpg" class="profile-pic">
+<img src="../images/me_hammock.jpeg" class="profile-pic">
 
 I am a Courant Instructor / Assistant Professor of applied mathematics at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/), where I work primarily with [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). I completed my PhD at Harvard University in applied mathematics, advised by [Jean-Jacques Slotine](https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao) (MIT) and [Chris Rycroft](https://scholar.google.com/citations?user=IS_xUuIAAAAJ&hl=en&oi=ao) (Harvard). During the last year of my PhD, I was also a student researcher at Google Brain, where I had the pleasure of working with [Vikas Sindhwani](https://vikas.sindhwani.org/) and [Stephen Tu](https://stephentu.github.io). From 2015-2019, my research was funded by a Department of Energy Computational Science Graduate Fellowship (DOE CSGF); I spent my practicum at Lawrence Berkeley National Lab.
 
