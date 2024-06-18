@@ -12,11 +12,7 @@ I can be reached at boffi at cims dot nyu dot edu.
 
 ---
 ## research interests
-I am an applied and computational mathematician. My current research centers on generative modeling via dynamical transport of measure and its application to problems in high-dimensional scientific computing.
-
-Previously, I worked on adaptive control and learning in nonlinear dynamical systems, as well as numerical method development for the simulation of disordered, biological, and quantum systems.
-
-My research draws on techniques from numerical analysis, dynamical systems theory, probability, and optimization to design, implement, and analyze new algorithms with provable guarantees.
+I am an applied and computational mathematician. My current research centers on generative modeling via dynamical transport of measure and its application to problems in high-dimensional scientific computing. Previously, I worked on adaptive control and learning in nonlinear dynamical systems, as well as numerical method development for the simulation of disordered, biological, and quantum systems. My research draws on techniques from numerical analysis, dynamical systems theory, probability, and optimization to design, implement, and analyze new algorithms with provable guarantees.
 
 **In September 2024, I will join Carnegie Mellon University as a tenure-track assistant professor in mathematics and as an affiliated faculty member in the machine learning department.**
 
