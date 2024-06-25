@@ -8,7 +8,7 @@ I am a Courant Instructor / Assistant Professor of applied mathematics at the [C
 
 Before graduate school, I was an undergraduate at Northwestern University, where I studied mathematics, physics, and [integrated science](https://isp.northwestern.edu/). I spent four wonderful years working on problems in theoretical chemistry with [Tamar Seideman](https://sites.northwestern.edu/seideman/). From 2014-2015, I was a Fulbright Scholar at Tel Aviv University, where I focused on the development of numerical methods for quantum chemistry.
 
-Here's a copy of my [CV]("../pdfs/boffi_cv_6_24.pdf"). I can be reached at boffi at cims dot nyu dot edu.
+Here's a copy of my [CV](../pdfs/boffi_cv_6_24.pdf). I can be reached at boffi at cims dot nyu dot edu.
 
 ---
 ## research interests
