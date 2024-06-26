@@ -16,14 +16,16 @@ Rooted in the theory of optimal transport, dynamical transport of measure studie
 </div>
 Many problems in scientific computing and computational mathematics are naturally high-dimensional. A canonical example arises in the statistical physics of interacting particle systems, where high-dimensionality appears due to a large number of particles. A standard method to study these systems is to model their dynamics with a stochastic differential equation, which can be numerically integrated and used to compute expectation values via the Monte-Carlo method. However, a wealth of additional information inaccessible from SDE trajectories alone is contained in the microscopic density for the system, which solves a Fokker-Planck equation (FPE) that describes transport of measure induced by the system's stochastic dynamics. A notable example for nonequilibrium systems such as driven systems or those arising in active matter is the entropy production rate (EPR), which quantifies the relevance of nonequilibrium effects. Unfortunately, the FPE is too high-dimensional for standard numerical techniques in all but simplified toy systems, making computation of the EPR intractable. 
 
-In collaboration with Professor Eric Vanden-Eijnden at the Courant Institute, we have designed neural network-based methods for both the time-dependent and the stationary FPE that scale to realistic system sizes. These methods leverage parallels with modern techniques in generative modeling such as diffusion models and stochastic interpolants, and in turn have informed theoretical questions and new advances in generative modeling. We are currently interested in further developing methods to investigate poorly-understood active matter systems, to optimize over energy dissipation in driven, time-dependent nonequilibrium systems, and to extend the approach beyond Fokker-Planck to other classes of high-dimensional partial differential equations.
+In collaboration with Professor Eric Vanden-Eijnden at the Courant Institute, we have designed neural network-based methods for both the time-dependent and the stationary FPE that scale to realistic system sizes. These methods leverage parallels with modern techniques in generative modeling such as diffusion models and stochastic interpolants, and in turn have informed theoretical questions and new advances in generative modeling. We are currently interested in further developing methods to investigate poorly-understood active matter systems, to optimize over energy dissipation in driven, time-dependent nonequilibrium systems, and to extend the approach beyond Fokker-Planck to other classes of high-dimensional partial differential equations. We have also developed methods for probabilistic forecasting of dynamical systems
 <div class="figure-container-horizontal-full">
   <div class="figure">
     <img src="../images/figs/mips/N_transfer.png">
   </div>
 </div>
 
-1. N. M. Boffi and Eric Vanden-Eijnden. "Deep learning probability flows and entropy production rates in active matter." arXiv:2309.12991, 2023. [arXiv](https://arxiv.org/abs/2309.12991)
+
+1. Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden. "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes." arXiv:2403.13724 (2024). [arxiv](https://arxiv.org/abs/2403.13724)
+1. N. M. Boffi and Eric Vanden-Eijnden. "Deep learning probability flows and entropy production rates in active matter." Proceedings of the National Academy of Sciences 121 (25) e2318106121, 2024. [arXiv](https://arxiv.org/abs/2309.12991) / [journal](https://doi.org/10.1073/pnas.2318106121)
 1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," Machine Learning: Science and Technology (2023). [journal](https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta) / [arXiv](https://arxiv.org/abs/2206.04642)
 
 ## generative modeling
@@ -36,6 +38,9 @@ We have shown how stochastic interpolants can be built upon either ordinary diff
   </div>
 </div>
 
+1. Nicholas M. Boffi, Michael S. Albergo, and Eric Vanden-Eijnden. "Flow map matching." arXiv:2406.07507 (2024). [arxiv](https://arxiv.org/abs/2406.07507)
+1. Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, and Saining Xie. "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers." arXiv:2401.08740 (2024). [arxiv](https://arxiv.org/abs/2401.08740)
+1. Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden. "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes." arXiv:2403.13724 (2024). [arxiv](https://arxiv.org/abs/2403.13724)
 1. Michael S. Albergo, Mark Goldstein, N. M. Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden. "Stochastic interpolants with data-dependent couplings." arXiv:2310.03725, 2023. [arXiv](https://arxiv.org/abs/2310.03725)
 1. Michael S. Albergo, N. M. Boffi, Michael Lindsey, and Eric Vanden-Eijnden. "Multimarginal generative modeling with stochastic interpolants." arXiv:2310.03695, 2023. [arXiv](https://arxiv.org/abs/2310.03695)
 1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." arXiv:2303.08797 (2023). [arXiv](https://arxiv.org/abs/2303.08797)
