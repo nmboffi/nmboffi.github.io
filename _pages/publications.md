@@ -6,16 +6,15 @@ permalink: /publications/
 \* denotes equal contribution with alphabetical ordering.
 
 1. Nicholas M. Boffi, Michael S. Albergo, and Eric Vanden-Eijnden. "Flow map matching." arXiv:2406.07507 (2024). [arxiv](https://arxiv.org/abs/2406.07507)
-1. Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden. "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes." arXiv:2403.13724 (2024). [arxiv](https://arxiv.org/abs/2403.13724)
 1. Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, and Saining Xie. "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers." arXiv:2401.08740 (2024). [arxiv](https://arxiv.org/abs/2401.08740)
 1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." arXiv:2303.08797 (2023). [arXiv](https://arxiv.org/abs/2303.08797)
 
-
 ---
 # publications
+1. Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, and Eric Vanden-Eijnden. "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes." International Conference on Machine Learning (2024). [arxiv](https://arxiv.org/abs/2403.13724)
+1. Michael S. Albergo, Mark Goldstein, N. M. Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden. "Stochastic interpolants with data-dependent couplings." International Conference on Machine Learning (spotlight) (2024). [arXiv](https://arxiv.org/abs/2310.03725)
 1. N. M. Boffi and Eric Vanden-Eijnden. "Deep learning probability flows and entropy production rates in active matter." Proceedings of the National Academy of Sciences 121 (25) e2318106121, 2024. [arXiv](https://arxiv.org/abs/2309.12991) / [journal](https://doi.org/10.1073/pnas.2318106121)
-1. Michael S. Albergo, Mark Goldstein, N. M. Boffi, Rajesh Ranganath, and Eric Vanden-Eijnden. "Stochastic interpolants with data-dependent couplings." International Conference on Machine Learning (spotlight) (2024). [arXiv](https://arxiv.org/abs/2310.03725) / [conference](https://openreview.net/pdf?id=FFILRGD0jG)
-1. Michael S. Albergo, N. M. Boffi, Michael Lindsey, and Eric Vanden-Eijnden. "Multimarginal generative modeling with stochastic interpolants." International Conference on Learning Representations (2024). [arXiv](https://arxiv.org/abs/2310.03695) / [conference](https://openreview.net/pdf?id=FHqAzWl2wE)
+1. Michael S. Albergo, N. M. Boffi, Michael Lindsey, and Eric Vanden-Eijnden. "Multimarginal generative modeling with stochastic interpolants." International Conference on Learning Representations (2024). [arXiv](https://arxiv.org/abs/2310.03695)
 1. N. M. Boffi and Eric Vanden-Eijnden. "Probability flow solution of the Fokker-Planck equation," Machine Learning: Science and Technology (2023). [journal](https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta) / [arXiv](https://arxiv.org/abs/2206.04642)
 1. N. M. Boffi, Yipei Guo, Chris H. Rycroft, Ariel Amir. "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution," eLife 12 (2023). [journal](https://elifesciences.org/reviewed-preprints/87895) / [biorXiv](https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1)
 1. Saminda Abeyruwan, Alex Bewley, N. M. Boffi, Krzysztof Marcin Choromanski, David B D’Ambrosio, Deepali Jain, Pannag R Sanketi, Anish Shankar, Vikas Sindhwani, Sumeet Singh, Jean-Jacques Slotine, Stephen Tu. "Agile Catching with Whole-Body MPC and Blackbox Policy Learning," Learning for Dynamics and Control (L4DC) 2023. [conference](https://proceedings.mlr.press/v211/abeyruwan23a.html)
