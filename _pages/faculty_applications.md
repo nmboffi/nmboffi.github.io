@@ -11,7 +11,7 @@ To help demystify the application process, I've made some of my personal resourc
 
 Ultimately, how to write these statements is a very personal choice, and the ideal way to do so will change by field and by application year. Please keep in mind that this is how I did it, and that you should choose your own way -- it may even be better!
 
-## Faculty Application Materials
+### faculty application materials
 [research statement](https://nmboffi.github.io/pdfs/boffi_research_statement.pdf)
 
 [teaching statement](https://nmboffi.github.io/pdfs/boffi_teaching_statement.pdf)
@@ -19,7 +19,7 @@ Ultimately, how to write these statements is a very personal choice, and the ide
 [diversity, equity, and inclusion statement](https://nmboffi.github.io/pdfs/boffi_dei_statement.pdf)
 
 
-## Postdoctoral Fellowship Materials
-[NSF Mathematical Sciences Postdoctoral Fellowship research statement](https://nmboffi.github.io/pdfs/boffi_nsf_mspf.pdf)
+### postdoctoral fellowship materials
+[NSF Mathematical Sciences Postdoctoral Fellowship proposal](https://nmboffi.github.io/pdfs/boffi_nsf_mspf.pdf)
 
 [research statement](https://nmboffi.github.io/pdfs/boffi_postdoc_research_statement.pdf)
