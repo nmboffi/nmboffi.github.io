@@ -9,7 +9,7 @@ I was fortunate to have mentors and colleagues who were willing to provide examp
 
 To help demystify the application process, I've made some of my personal resources publically-accessible below. The materials are from the 2020-2021 postdoctoral application cycle and the 2023-2024 tenure-track faculty application cycle. I hope that you, the reader of this page, will find them useful on your side of this adventure. 
 
-Ultimately, how to write these statements is a very personal choice, and the ideal way to do so will change by field and by application year. Please keep in mind that this is how I did it, and that you should choose your own way -- it may even be better!
+Ultimately, how to write these statements is a very personal choice, and the ideal way to do so will change by field and by application year. Please keep in mind that this is how I did it, and that you should choose your own way -- it may be better!
 
 ### faculty application materials
 [research statement](https://nmboffi.github.io/pdfs/boffi_research_statement.pdf)
