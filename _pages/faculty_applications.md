@@ -22,5 +22,4 @@ Ultimately, how to write these statements is a very personal choice, and the ide
 ## Postdoctoral Fellowship Materials
 [NSF Mathematical Sciences Postdoctoral Fellowship research statement](https://nmboffi.github.io/pdfs/boffi_nsf_mspf.pdf)
 
-
 [research statement](https://nmboffi.github.io/pdfs/boffi_postdoc_research_statement.pdf)
