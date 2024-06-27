@@ -3,7 +3,9 @@ layout: page
 title: code
 permalink: /code/
 ---
-Below are some pieces of open source software that I've written, listed in reverse-chronological order. The latest code is mostly based on neural network libraries in Python such as `jax` and `PyTorch`, with applications in high-dimensional scientific computing and generative modeling. 
+Below are some pieces of open source software that I've written, listed in reverse-chronological order. 
+
+The latest code is mostly based on neural network libraries in Python such as `jax` and `PyTorch`, with applications in high-dimensional scientific computing and generative modeling. 
 
 The earlier code is written in `C++` (or even `FORTRAN`) and is parallelized with `openmp` or `MPI`, with applications in large-scale modeling and simulation of disordered systems from statistical physics and continuum mechanics.
 
