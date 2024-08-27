@@ -1,4 +1,3 @@
-
 //
 // VARIABLES
 //
@@ -15,9 +14,13 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+$raleway: 'Raleway', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+
+// Set your preferred font as the default
+$base-font-family: $raleway;
 
 // Mobile breakpoints
 @mixin mobile {
