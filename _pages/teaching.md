@@ -1,9 +1,8 @@
 ---
-layout: page
-title: teaching
+layout: default
 permalink: /teaching/
 ---
-
+# teaching
 This page lists the courses I've taught at various universities. 
 
 **Carnegie Mellon, Fall 2024:** Introduction to PDEs: A Computational Approach\\

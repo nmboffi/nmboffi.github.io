@@ -1,8 +1,10 @@
 ---
-layout: page
-title: preprints
+layout: default
 permalink: /publications/
 ---
+Below is a list of my publications. In all likelihood, it's a bit out of date. For the most up to date list, please check my [Google Scholar profile](https://scholar.google.com/citations?user=_jkX2q0AAAAJ&hl=en&oi=ao).
+
+# preprints
 \* denotes equal contribution with alphabetical ordering.
 
 1. Nicholas M. Boffi, Michael S. Albergo, and Eric Vanden-Eijnden. "Flow map matching." arXiv:2406.07507 (2024). [arxiv](https://arxiv.org/abs/2406.07507)

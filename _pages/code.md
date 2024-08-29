@@ -1,8 +1,8 @@
 ---
-layout: page
-title: code
+layout: default 
 permalink: /code/
 ---
+# code
 Below are some pieces of open source software that I've written, listed in reverse-chronological order. 
 
 The latest code is mostly based on neural network libraries in Python such as `jax` and `PyTorch`, with applications in high-dimensional scientific computing and generative modeling. 

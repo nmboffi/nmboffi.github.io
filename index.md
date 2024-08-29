@@ -15,7 +15,7 @@ Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_24.pdf), up to date as
 I can be reached at nboffi at andrew dot cmu dot edu.
 
 ---
-## biosketch
+# biosketch
 
 I was a Courant Instructor at the [Courant Institute of Mathematical Sciences](https://www.courant.nyu.edu/) from 2021-2024, where I worked primarily with [Eric Vanden-Eijnden](https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/). 
 

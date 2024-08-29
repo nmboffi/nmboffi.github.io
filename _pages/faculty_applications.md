@@ -1,8 +1,8 @@
 ---
-layout: page
-title: faculty and postdoctoral applications
+layout: default
 permalink: /applications/
 ---
+# faculty and postdoctoral applications
 Both the postdoctoral fellowship and the tenure-track faculty application processes can be immensely stressful. Perhaps the most challenging aspect of these processes is the need to write research, teaching, and diversity statements: at the time of applying for a postdoctoral fellowship, this is a task that most graduate students have little experience with. As a result, most are not sure how to begin.
 
 I was fortunate to have mentors and colleagues who were willing to provide examples and feedback. I found example successful applications extremely helpful, as they gave me some guidance on length, structure, and content.

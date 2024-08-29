@@ -14,6 +14,8 @@
 /**************/
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;200;250;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;250;300;400;500;600;700&display=swap');
 
 hr {
     border: 1px solid $lightGray;
@@ -29,8 +31,8 @@ body {
   font-family: 'Lato', -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #404040;
   line-height: 1.7;
-  font-weight: 400;
-  font-size: 15px;
+  font-weight: 300;
+  font-size: 16px;
   height: 100%;
 }
 
@@ -42,10 +44,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  t
-  font-family: 'Lato', -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Raleway', -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: gray;
-  font-weight: bold;
+  font-weight: 300;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -220,7 +221,7 @@ p > img {
 nav {
   float: right;
   margin-top: 20px;
-  font-family: $helveticaNeue;
+  font-family: Lato;
   font-size: 16px;
 
   @include mobile {
@@ -235,7 +236,7 @@ nav {
     color: gray;
     text-align: left;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 
     @include mobile {
       margin: 0 10px;
