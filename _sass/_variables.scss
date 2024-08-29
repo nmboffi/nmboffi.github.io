@@ -14,13 +14,14 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+$lato: 'Lato', sans-serif;
 $raleway: 'Raleway', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Set your preferred font as the default
-$base-font-family: $raleway;
+$base-font-family: $lato;
 
 // Mobile breakpoints
 @mixin mobile {
