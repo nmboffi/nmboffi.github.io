@@ -4,10 +4,11 @@ permalink: /publications/
 ---
 Below is a list of my publications. In all likelihood, it's a bit out of date. For the most up to date list, please check my [Google Scholar profile](https://scholar.google.com/citations?user=_jkX2q0AAAAJ&hl=en&oi=ao).
 
-# preprints
-\* denotes equal contribution with alphabetical ordering.
+In the below lists, an asterisk (\*) denotes equal contribution with alphabetical or randomized ordering.
 
-1. Nicholas M. Boffi, Michael S. Albergo, and Eric Vanden-Eijnden. "Flow map matching." arXiv:2406.07507 (2024). [arxiv](https://arxiv.org/abs/2406.07507)
+# preprints
+
+1. Nicholas M. Boffi\*, Michael S. Albergo\*, and Eric Vanden-Eijnden. "Flow map matching." arXiv:2406.07507 (2024). [arxiv](https://arxiv.org/abs/2406.07507)
 1. Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, and Saining Xie. "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers." arXiv:2401.08740 (2024). [arxiv](https://arxiv.org/abs/2401.08740)
 1. Michael S. Albergo\*, N. M. Boffi\*, and Eric Vanden-Eijnden. "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions." arXiv:2303.08797 (2023). [arXiv](https://arxiv.org/abs/2303.08797)
 
