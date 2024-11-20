@@ -4,9 +4,9 @@ layout: default
 # nicholas m. boffi
 <img src="../images/me_hammock.png" class="profile-pic">
 
-I am an assistant professor in the [Department of Mathematical Sciences](https://www.cmu.edu/math/index.html) at Carnegie Mellon University, where I am a member of the [Center for Nonlinear Analysis](https://www.cmu.edu/math/cna/). I am also an affiliated faculty member in the [Machine Learning Department](https://www.ml.cmu.edu).
+I am an assistant professor in the [Department of Mathematical Sciences](https://www.cmu.edu/math/index.html) and an affiliated faculty in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University. I am also a member of the [Center for Nonlinear Analysis](https://www.cmu.edu/math/cna/).
 
-I am broadly interested in machine learning and computational mathematics, with my current research interests centered on generative models and their application to high-dimensional problems in scientific computing. I am particularly interested in computational problems that cannot be solved with standard numerical techniques but which can be solved using machine learning. My work draws inspiration from many areas of applied mathematics, including numerical analysis, partial differential equations, dynamical systems, stochastic processes, probability, and optimization.
+I am broadly interested in machine learning and computational mathematics. My current research interests center on generative models and their application to high-dimensional problems in scientific computing; I am particularly interested in problems that cannot be solved with standard numerical techniques but which can be solved using machine learning. My work draws inspiration from many areas of applied mathematics, including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
 
 Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_24.pdf), up to date as of 8/20/24.
 
