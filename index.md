@@ -6,7 +6,7 @@ layout: default
 
 I am an assistant professor in the [Department of Mathematical Sciences](https://www.cmu.edu/math/index.html) and an affiliated faculty member in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University. I am also a member of the [Center for Nonlinear Analysis](https://www.cmu.edu/math/cna/).
 
-I am broadly interested in machine learning and computational mathematics. My current research interests center on generative models and their application to high-dimensional problems in scientific computing; I am particularly interested in problems that cannot be solved with standard numerical techniques but which can be solved using machine learning. My work draws inspiration from many areas of applied mathematics, including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
+I am broadly interested in machine learning and computational mathematics. My current research interests center on generative models and their application to high-dimensional scientific computing problems. I am particularly interested in scientific questions that cannot be answered with standard numerical techniques, but which can be answered using machine learning. My work draws inspiration from many areas of applied mathematics, including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
 
 Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_24.pdf), up to date as of 8/20/24.
 
