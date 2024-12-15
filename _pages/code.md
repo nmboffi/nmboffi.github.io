@@ -3,7 +3,7 @@ layout: default
 permalink: /code/
 ---
 # code
-Below are some pieces of open source software that I've written, listed in reverse-chronological order. 
+I'm a big believer in reproducible science and open-source software. In line with this, below are some pieces of code that I've written, listed in reverse-chronological order. 
 
 The latest code is mostly based on neural network libraries in Python such as `jax` and `PyTorch`, with applications in high-dimensional scientific computing and generative modeling. 
 
