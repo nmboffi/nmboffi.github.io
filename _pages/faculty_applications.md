@@ -16,9 +16,6 @@ Ultimately, how to write these statements is a very personal choice, and the ide
 
 [teaching statement](https://nmboffi.github.io/pdfs/boffi_teaching_statement.pdf)
 
-[diversity, equity, and inclusion statement](https://nmboffi.github.io/pdfs/boffi_dei_statement.pdf)
-
-
 ### postdoctoral fellowship materials
 [NSF Mathematical Sciences Postdoctoral Fellowship proposal](https://nmboffi.github.io/pdfs/boffi_nsf_mspf.pdf)
 
