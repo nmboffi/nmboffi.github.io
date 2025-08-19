@@ -8,7 +8,7 @@ I am an assistant professor in the [Machine Learning Department](https://www.ml.
 
 I am broadly interested in machine learning and computational mathematics, with my current research interests centering on the foundations of generative modeling and its application to problems across science and engineering. I am particularly interested in computational problems that are challenging to solve with standard numerical techniques but which can be solved efficiently with machine learning. My work draws inspiration from many areas of applied mathematics including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
 
-Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_24.pdf), up to date as of 8/20/24.
+Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_25.pdf), up to date as of 8/19/25.
 
 **I am looking for highly-motivated PhD students interested in work at the intersection of applied mathematics and machine learning. If you are a PhD student at CMU in machine learning or in mathematics, or if you are interested in applying to one of these PhD programs, please send me an email with your CV and a short description of your research interests.**
 
