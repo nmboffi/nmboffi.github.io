@@ -10,8 +10,6 @@ I am broadly interested in machine learning and computational mathematics, with 
 
 Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_25.pdf), up to date as of 8/19/25.
 
-**I am looking for highly-motivated PhD students interested in work at the intersection of applied mathematics and machine learning. If you are a PhD student at CMU in machine learning or in mathematics, or if you are interested in applying to one of these PhD programs, please send me an email with your CV and a short description of your research interests.**
-
 I can be reached at nboffi at andrew dot cmu dot edu.
 
 ---
