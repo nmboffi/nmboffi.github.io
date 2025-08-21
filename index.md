@@ -4,13 +4,13 @@ layout: default
 # nicholas m. boffi
 <img src="../images/me_hammock.png" class="profile-pic">
 
-I am an assistant professor in the [Machine Learning Department](https://www.ml.cmu.edu) (50%) and in the [Department of Mathematical Sciences](https://www.cmu.edu/math/index.html) (50%) at Carnegie Mellon University. I am also a member of the [Center for Nonlinear Analysis](https://www.cmu.edu/math/cna/).
+I am an assistant professor in the [Machine Learning Department](https://www.ml.cmu.edu) (50%) and the [Department of Mathematical Sciences](https://www.cmu.edu/math/index.html) (50%) at CMU.
 
-I am broadly interested in machine learning and computational mathematics, with my current research interests centering on the foundations of generative modeling and its application to problems across science and engineering. I am particularly interested in computational problems that are challenging to solve with standard numerical techniques but which can be solved efficiently with machine learning. My work draws inspiration from many areas of applied mathematics including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
-
-Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_25.pdf), up to date as of 8/19/25.
+I am broadly interested in machine learning and applied mathematics. My current research centers on the algorithmic foundations of generative models and their application to problems across artificial intelligence, science, and engineering. I am particularly interested in scientific questions that are challenging or impossible to answer with traditional computational methods but which may be tackled with machine learning. My work draws inspiration from many areas of applied and computational mathematics, including numerical analysis, partial differential equations, dynamical systems and control theory, stochastic processes, probability, and optimization.
 
 I can be reached at nboffi at andrew dot cmu dot edu.
+
+Here is my [CV](https://nmboffi.github.io/pdfs/boffi_cv_8_25.pdf), up to date as of 8/19/25. 
 
 ---
 # biosketch
