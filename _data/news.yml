@@ -1,0 +1,35 @@
+# News items for Nicholas M. Boffi
+# Displayed in reverse chronological order on homepage
+
+- date: 2024-08-19
+  title: Started position at CMU
+  description: Joined CMU as Assistant Professor in Machine Learning Department and Mathematical Sciences
+  type: position
+
+- date: 2024-06-10
+  title: New preprint on Flow Map Matching
+  description: Posted new work on efficient training of continuous normalizing flows
+  type: publication
+  link: https://arxiv.org/abs/2406.07507
+
+- date: 2024-05-01
+  title: Two papers accepted to ICML 2024
+  description: "Papers on stochastic interpolants with data-dependent couplings (spotlight) and probabilistic forecasting accepted"
+  type: publication
+
+- date: 2024-06-18
+  title: PNAS paper published
+  description: Work on deep learning probability flows and entropy production rates in active matter published in PNAS
+  type: publication
+  link: https://doi.org/10.1073/pnas.2318106121
+
+- date: 2024-01-16
+  title: Paper accepted to ICLR 2024
+  description: Paper on multimarginal generative modeling with stochastic interpolants accepted
+  type: publication
+
+- date: 2023-03-15
+  title: Stochastic Interpolants preprint
+  description: Posted foundational work on stochastic interpolants framework
+  type: publication
+  link: https://arxiv.org/abs/2303.08797

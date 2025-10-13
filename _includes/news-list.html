@@ -1,0 +1,18 @@
+{% comment %}
+  Renders a list of news items in minimal style
+
+  Parameters:
+  - news: List of news items (typically site.data.news)
+  - limit: Maximum number of items to show (default: 5)
+{% endcomment %}
+
+{% assign news_list = include.news | sort: "date" | reverse %}
+{% assign max_items = include.limit | default: 5 %}
+
+<ul style="list-style: none; padding: 0; line-height: 1.8;">
+  {% for item in news_list limit: max_items %}
+    <li style="margin-bottom: 0.75rem;">
+      → <strong>{{ item.date | date: "%b %Y" }}</strong>: {{ item.title }}{% if item.description %} — {{ item.description }}{% endif %}{% if item.link %} <a href="{{ item.link }}" target="_blank" rel="noopener">[link]</a>{% endif %}
+    </li>
+  {% endfor %}
+</ul>

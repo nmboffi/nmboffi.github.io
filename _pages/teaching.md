@@ -3,8 +3,9 @@ layout: default
 permalink: /teaching/
 ---
 # teaching
-This page lists the courses I've taught at various universities. 
+This page lists the courses I've taught at various universities.
 
+**Carnegie Mellon, Spring 2025:** Methods of Optimization\\
 **Carnegie Mellon, Fall 2024:** Introduction to PDEs: A Computational Approach\\
 **NYU Courant, Spring 2024:** Honors Numerical Analysis\\
 **NYU Courant, Fall 2023:** Linear and Nonlinear Optimization\\

@@ -1,0 +1,67 @@
+{% comment %}
+  Renders a single publication card
+  Usage: {% include paper-card.html paper=paper self_name="Nicholas M. Boffi" %}
+{% endcomment %}
+
+{% assign p = include.paper %}
+{% assign self = include.self_name | default: site.author.name | default: site.name %}
+
+<article class="paper-card" role="listitem" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  {% if p.thumbnail %}
+  <a class="paper-thumb-link" href="{{ p.links.project | default: p.links.paper | default: p.arxiv }}" {% if p.links.project or p.links.paper or p.arxiv %}target="_blank" rel="noopener"{% endif %}>
+    <img class="paper-thumb" loading="lazy" src="{{ p.thumbnail | relative_url }}" alt="Thumbnail for {{ p.title }}">
+  </a>
+  {% endif %}
+
+  <div class="paper-meta">
+    <h3 class="title" itemprop="name">{{ p.title }}</h3>
+
+    <div class="authors">
+      {% for a in p.authors %}
+        {% if a == self %}
+          <span class="author-me" itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ a }}</span></span>{% unless forloop.last %}, {% endunless %}
+        {% else %}
+          <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ a }}</span></span>{% unless forloop.last %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
+      {% if p.equal_contribution %}<span class="equal-contrib">*</span>{% endif %}
+    </div>
+
+    <div class="venue">
+      {{ p.venue }}, {{ p.year }}
+      {% if p.spotlight %} (Spotlight){% endif %}
+      {% if p.oral %} (Oral){% endif %}
+      {% if p.cover %} (Cover){% endif %}
+    </div>
+
+    <div class="links">
+      {% if p.arxiv %}
+        <a href="https://arxiv.org/abs/{{ p.arxiv }}" target="_blank" rel="noopener">arXiv</a>
+      {% endif %}
+      {% if p.journal %}
+        {% if p.arxiv %} / {% endif %}<a href="{{ p.journal }}" target="_blank" rel="noopener">paper</a>
+      {% elsif p.conference %}
+        {% if p.arxiv %} / {% endif %}<a href="{{ p.conference }}" target="_blank" rel="noopener">paper</a>
+      {% endif %}
+      {% if p.project %}
+        {% if p.arxiv or p.journal or p.conference %} / {% endif %}<a href="{{ p.project }}" target="_blank" rel="noopener">project</a>
+      {% endif %}
+      {% if p.code %}
+        {% if p.arxiv or p.journal or p.conference or p.project %} / {% endif %}<a href="{{ p.code }}" target="_blank" rel="noopener">code</a>
+      {% endif %}
+      {% if p.video %}
+        {% if p.arxiv or p.journal or p.conference or p.project or p.code %} / {% endif %}<a href="{{ p.video }}" target="_blank" rel="noopener">video</a>
+      {% endif %}
+      {% if p.biorxiv %}
+        {% if p.arxiv or p.journal or p.conference or p.project or p.code or p.video %} / {% endif %}<a href="{{ p.biorxiv }}" target="_blank" rel="noopener">bioRxiv</a>
+      {% endif %}
+    </div>
+
+    {% if p.abstract %}
+      <details class="abstract-toggle">
+        <summary>Abstract</summary>
+        <p class="abstract">{{ p.abstract }}</p>
+      </details>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,450 @@
+# Publications data for Nicholas M. Boffi
+# highlight: true shows on homepage "selected papers"
+# thumbnail: path to thumbnail image (240x180px recommended)
+
+- id: consistency-model
+  title: "How to build a consistency model: Learning flow maps via self-distillation"
+  authors:
+    - Nicholas M. Boffi
+    - Michael S. Albergo
+    - Eric Vanden-Eijnden
+  venue: arXiv preprint
+  year: 2025
+  arxiv: "2505.18825"
+  thumbnail: /images/figs/interpolant/flow_map.png
+  highlight: false
+  category: preprint
+
+- id: shallow-diffusion
+  title: "Shallow diffusion networks provably learn hidden low-dimensional structure"
+  authors:
+    - Nicholas M. Boffi
+    - Arthur Jacot
+    - Stephen Tu
+    - Ingvar M. Ziemann
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2025
+  arxiv: "2410.11275"
+  thumbnail: /images/figs/interpolant/flow_map.png
+  highlight: true
+  category: conference
+
+- id: flocking-dynamics
+  title: "Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking"
+  authors:
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: arXiv preprint
+  year: 2024
+  arxiv: "2411.14317"
+  thumbnail: /images/figs/mips/pnas_thumb.png
+  highlight: false
+  category: preprint
+
+- id: flow-map-matching
+  title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
+  authors:
+    - Nicholas M. Boffi
+    - Michael S. Albergo
+    - Eric Vanden-Eijnden
+  equal_contribution: true
+  venue: Transactions on Machine Learning Research
+  venue_short: TMLR
+  year: 2025
+  arxiv: "2406.07507"
+  thumbnail: /images/figs/interpolant/flow_map.png
+  highlight: true
+  category: journal
+
+- id: sit
+  title: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
+  authors:
+    - Nanye Ma
+    - Mark Goldstein
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+    - Saining Xie
+  venue: European Conference on Computer Vision
+  venue_short: ECCV
+  year: 2024
+  arxiv: "2401.08740"
+  conference: "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_2"
+  thumbnail: /images/figs/interpolant/sit_thumb.png
+  highlight: false
+  category: conference
+
+- id: stochastic-interpolants
+  title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
+  authors:
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  equal_contribution: true
+  venue: Journal of Machine Learning Research
+  venue_short: JMLR
+  year: 2025
+  arxiv: "2303.08797"
+  note: "Accepted"
+  thumbnail: /images/figs/interpolant/stochastic_interpolants.png
+  highlight: true
+  category: journal
+
+- id: forecasting-follmer
+  title: "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes"
+  authors:
+    - Yifan Chen
+    - Mark Goldstein
+    - Mengjian Hua
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: International Conference on Machine Learning
+  venue_short: ICML
+  year: 2024
+  arxiv: "2403.13724"
+  thumbnail: /images/figs/interpolant/forecasting.png
+  highlight: false
+  category: conference
+
+- id: data-dependent-couplings
+  title: "Stochastic interpolants with data-dependent couplings"
+  authors:
+    - Michael S. Albergo
+    - Mark Goldstein
+    - Nicholas M. Boffi
+    - Rajesh Ranganath
+    - Eric Vanden-Eijnden
+  venue: International Conference on Machine Learning
+  venue_short: ICML
+  spotlight: true
+  year: 2024
+  arxiv: "2310.03725"
+  thumbnail: /images/figs/interpolant/data_dependent.png
+  highlight: true
+  category: conference
+
+- id: epr-active-matter
+  title: "Deep learning probability flows and entropy production rates in active matter"
+  authors:
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: Proceedings of the National Academy of Sciences
+  venue_short: PNAS
+  year: 2024
+  arxiv: "2309.12991"
+  journal: "https://doi.org/10.1073/pnas.2318106121"
+  volume: "121(25)"
+  pages: "e2318106121"
+  thumbnail: /images/figs/mips/pnas_thumb.png
+  highlight: true
+  category: journal
+
+- id: multimarginal
+  title: "Multimarginal generative modeling with stochastic interpolants"
+  authors:
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Michael Lindsey
+    - Eric Vanden-Eijnden
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2024
+  arxiv: "2310.03695"
+  thumbnail: /images/figs/interpolant/multimarginal.png
+  highlight: false
+  category: conference
+
+- id: fokker-planck
+  title: "Probability flow solution of the Fokker-Planck equation"
+  authors:
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: Machine Learning Science and Technology
+  venue_short: MLST
+  year: 2023
+  arxiv: "2206.04642"
+  journal: "https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta"
+  thumbnail: /images/figs/sbtm/fokker_planck.png
+  highlight: true
+  category: journal
+
+- id: epistasis-evolution
+  title: "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution"
+  authors:
+    - Nicholas M. Boffi
+    - Yipei Guo
+    - Chris H. Rycroft
+    - Ariel Amir
+  venue: eLife
+  year: 2023
+  journal: "https://elifesciences.org/reviewed-preprints/87895"
+  biorxiv: "https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1"
+  thumbnail: /images/figs/lenski/evolution_thumb.png
+  highlight: false
+  category: journal
+
+- id: agile-catching
+  title: "Agile Catching with Whole-Body MPC and Blackbox Policy Learning"
+  authors:
+    - Saminda Abeyruwan
+    - Alex Bewley
+    - Nicholas M. Boffi
+    - Krzysztof Marcin Choromanski
+    - David B D'Ambrosio
+    - Deepali Jain
+    - Pannag R Sanketi
+    - Anish Shankar
+    - Vikas Sindhwani
+    - Sumeet Singh
+    - Jean-Jacques Slotine
+    - Stephen Tu
+  venue: Learning for Dynamics and Control
+  venue_short: L4DC
+  year: 2023
+  conference: "https://proceedings.mlr.press/v211/abeyruwan23a.html"
+  thumbnail: /images/figs/learning_lyapunov/catching.png
+  highlight: false
+  category: conference
+
+- id: nonparametric-adaptive
+  title: "Non-parametric adaptive control and prediction: theory and randomized algorithms"
+  authors:
+    - Nicholas M. Boffi
+    - Stephen Tu
+    - Jean-Jacques Slotine
+  equal_contribution: true
+  venue: Journal of Machine Learning Research
+  venue_short: JMLR
+  year: 2022
+  journal: "https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf"
+  conference: "https://ieeexplore.ieee.org/abstract/document/9682907/"
+  arxiv: "2106.03589"
+  thumbnail: /images/figs/learning_lyapunov/adaptive.png
+  highlight: true
+  category: journal
+
+- id: adversarial-certificates
+  title: "Adversarially robust stability certificates can be sample efficient"
+  authors:
+    - Thomas Zhang
+    - Stephen Tu
+    - Nicholas M. Boffi
+    - Jean-Jacques Slotine
+    - Nikolai Matni
+  venue: Learning for Dynamics and Control
+  venue_short: L4DC
+  year: 2022
+  conference: "https://proceedings.mlr.press/v168/zhang22a.html"
+  arxiv: "2112.10690"
+  thumbnail: /images/figs/learning_lyapunov/adversarial.png
+  highlight: false
+  category: conference
+
+- id: optimization-geometry
+  title: "The role of optimization geometry in single neuron learning"
+  authors:
+    - Nicholas M. Boffi
+    - Stephen Tu
+    - Jean-Jacques E. Slotine
+  equal_contribution: true
+  venue: International Conference on Artificial Intelligence and Statistics
+  venue_short: AISTATS
+  year: 2022
+  conference: "https://proceedings.mlr.press/v151/boffi22a.html"
+  arxiv: "2006.08575"
+  thumbnail: /images/figs/mirror_descent/optimization_geom.png
+  highlight: false
+  category: conference
+
+- id: manifold-coarse-graining
+  title: "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids"
+  authors:
+    - Katiana Kontolati
+    - Darius Alix-Williams
+    - Nicholas M. Boffi
+    - Michael L. Falk
+    - Chris H. Rycroft
+    - Michael D. Shields
+  venue: Acta Materialia
+  year: 2021
+  journal: "https://www.sciencedirect.com/science/article/pii/S1359645421003888"
+  arxiv: "2103.00779"
+  thumbnail: /images/figs/bmg_trans/manifold.png
+  highlight: false
+  category: journal
+
+- id: regret-bounds
+  title: "Regret bounds for adaptive nonlinear control"
+  authors:
+    - Nicholas M. Boffi
+    - Stephen Tu
+    - Jean-Jacques E. Slotine
+  equal_contribution: true
+  venue: Learning for Dynamics and Control
+  venue_short: L4DC
+  year: 2021
+  oral: true
+  conference: "https://proceedings.mlr.press/v144/boffi21a.html"
+  arxiv: "2011.13101"
+  thumbnail: /images/figs/learning_lyapunov/regret.png
+  highlight: false
+  category: conference
+
+- id: learning-certificates
+  title: "Learning stability certificates from data"
+  authors:
+    - Nicholas M. Boffi
+    - Stephen Tu
+    - Nikolai Matni
+    - Jean-Jacques E. Slotine
+    - Vikas Sindhwani
+  equal_contribution: true
+  venue: Conference on Robot Learning
+  venue_short: CoRL
+  year: 2020
+  conference: "https://corlconf.github.io/paper_290/"
+  arxiv: "2008.05952"
+  thumbnail: /images/figs/learning_lyapunov/certificates.png
+  highlight: false
+  category: conference
+
+- id: implicit-regularization
+  title: "Implicit regularization and momentum algorithms in nonlinearly parameterized adaptive control and prediction"
+  authors:
+    - Nicholas M. Boffi
+    - Jean-Jacques E. Slotine
+  venue: Neural Computation
+  year: 2021
+  volume: "33(3)"
+  pages: "590-673"
+  cover: true
+  journal: "https://direct.mit.edu/neco/article-abstract/33/3/590/97492"
+  arxiv: "1912.13154"
+  thumbnail: /images/figs/mirror_descent/implicit_reg.png
+  highlight: false
+  category: journal
+
+- id: cdc-nonparametric
+  title: "Nonparametric Adaptive Control and Prediction: Theory and Randomized Algorithms"
+  authors:
+    - Nicholas M. Boffi
+    - Stephen Tu
+    - Jean-Jacques Slotine
+  venue: IEEE Conference on Decision and Control
+  venue_short: CDC
+  year: 2021
+  conference: "https://ieeexplore.ieee.org/abstract/document/9682907/"
+  arxiv: "2106.03589"
+  thumbnail: /images/figs/learning_lyapunov/adaptive.png
+  highlight: false
+  category: conference
+
+- id: coordinate-transformation
+  title: "Coordinate transformation methodology for simulating quasi-static elastoplastic solids"
+  authors:
+    - Nicholas M. Boffi
+    - Chris H. Rycroft
+  venue: Physical Review E
+  year: 2020
+  volume: "101"
+  pages: "053304"
+  journal: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304"
+  arxiv: "1904.04145"
+  thumbnail: /images/figs/bmg_trans/coordinate.png
+  highlight: false
+  category: journal
+
+- id: parallel-elastoplastic
+  title: "Parallel three-dimensional simulations of quasi-static elastoplastic solids"
+  authors:
+    - Nicholas M. Boffi
+    - Chris H. Rycroft
+  venue: Computer Physics Communications
+  year: 2020
+  volume: "257"
+  pages: "107254"
+  journal: "https://www.sciencedirect.com/science/article/pii/S0010465520300795"
+  arxiv: "1904.03808"
+  thumbnail: /images/figs/bmg_trans/parallel.png
+  highlight: false
+  category: journal
+
+- id: distributed-sgd
+  title: "A continuous-time analysis of distributed stochastic gradient"
+  authors:
+    - Nicholas M. Boffi
+    - Jean-Jacques E. Slotine
+  venue: Neural Computation
+  year: 2020
+  volume: "32"
+  pages: "36-96"
+  journal: "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01248"
+  arxiv: "1812.10995"
+  thumbnail: /images/figs/mirror_descent/distributed_sgd.png
+  highlight: false
+  category: journal
+
+- id: hartree-fock
+  title: "Efficient computation of the Hartree-Fock Exchange in real-space with projection operators"
+  authors:
+    - Nicholas M. Boffi
+    - Manish Jain
+    - Amir Natan
+  venue: Journal of Chemical Theory and Computation
+  venue_short: JCTC
+  year: 2016
+  volume: "12(8)"
+  journal: "https://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00376"
+  thumbnail: /images/figs/fock/hartree_fock.png
+  highlight: false
+  category: journal
+
+- id: virtual-states
+  title: "Asymptotic behavior and interpretation of virtual states: the effects of confinement and of basis sets"
+  authors:
+    - Nicholas M. Boffi
+    - Manish Jain
+    - Amir Natan
+  venue: Journal of Chemical Physics
+  venue_short: JCP
+  year: 2016
+  volume: "144"
+  pages: "084104"
+  journal: "https://aip.scitation.org/doi/abs/10.1063/1.4942187"
+  thumbnail: /images/figs/fock/virtual_states.png
+  highlight: false
+  category: journal
+
+- id: block-tridiagonal
+  title: "Characterizing the inverses of block tridiagonal, block Toeplitz matrices"
+  authors:
+    - Nicholas M. Boffi
+    - Judith C. Hill
+    - Matthew G. Reuter
+  venue: Computational Science and Discovery
+  year: 2014
+  volume: "8"
+  pages: "015001"
+  journal: "https://iopscience.iop.org/article/10.1088/1749-4680/8/1/015001"
+  thumbnail: /images/figs/fock/block_tri.png
+  highlight: false
+  category: journal
+
+- id: dimensionality-decay
+  title: "The role of dimensionality in the decay of surface effects"
+  authors:
+    - Matthew G. Reuter
+    - Nicholas M. Boffi
+    - Mark A. Ratner
+    - Tamar Seideman
+  venue: Journal of Chemical Physics
+  venue_short: JCP
+  year: 2013
+  volume: "138"
+  pages: "084707"
+  journal: "https://aip.scitation.org/doi/10.1063/1.4792643"
+  thumbnail: /images/figs/fock/dimensionality.png
+  highlight: false
+  category: journal

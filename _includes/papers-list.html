@@ -1,0 +1,48 @@
+{% comment %}
+  Renders a list of publications with optional filtering and grouping
+
+  Parameters:
+  - papers: List of publications (typically site.data.publications)
+  - highlighted: If true, only show papers with highlight=true
+  - group_by_year: If true, group papers by year
+  - limit: Maximum number of papers to show
+  - self_name: Name to bold in author lists
+
+  Usage:
+    {% include papers-list.html papers=site.data.publications highlighted=true limit=6 %}
+    {% include papers-list.html papers=site.data.publications group_by_year=true %}
+{% endcomment %}
+
+{% assign list = include.papers %}
+
+{% comment %} Filter by highlighted if requested {% endcomment %}
+{% if include.highlighted %}
+  {% assign list = list | where_exp: "p", "p.highlight == true" %}
+{% endif %}
+
+{% comment %} Sort by year, most recent first {% endcomment %}
+{% assign list = list | sort: "year" | reverse %}
+
+{% if include.group_by_year %}
+  {% comment %} Group by year {% endcomment %}
+  {% assign groups = list | group_by: "year" | sort: "name" | reverse %}
+
+  {% for g in groups %}
+    <section class="year-group">
+      <div class="year-h">{{ g.name }}</div>
+      <div class="paper-list" role="list">
+        {% for p in g.items %}
+          {% include paper-card.html paper=p self_name=include.self_name %}
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+
+{% else %}
+  {% comment %} Simple list without grouping {% endcomment %}
+  <div class="paper-list" role="list">
+    {% for p in list limit: include.limit %}
+      {% include paper-card.html paper=p self_name=include.self_name %}
+    {% endfor %}
+  </div>
+{% endif %}

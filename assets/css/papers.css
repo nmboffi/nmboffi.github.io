@@ -1,0 +1,165 @@
+/* Minimal publication cards styling
+   Inspired by Philip Isola and Jun-Yan Zhu's academic websites */
+
+:root {
+  --accent: #4183C4;
+  --text: #404040;
+  --muted: #666666;
+}
+
+/* ========================================
+   PAPER CARDS
+   ======================================== */
+
+.paper-list {
+  display: grid;
+  gap: 0;
+  margin: 1.5rem -40px;
+}
+
+.paper-card {
+  display: grid;
+  gap: 1.5rem;
+  padding: 1.5rem 40px;
+  border: none;
+  background: none;
+}
+
+/* Desktop: thumbnail left, content right */
+@media (min-width: 720px) {
+  .paper-card {
+    grid-template-columns: 320px 1fr;
+  }
+}
+
+/* Thumbnail */
+.paper-thumb-link {
+  display: block;
+  line-height: 0;
+  width: 320px;
+  height: 320px;
+}
+
+.paper-thumb {
+  width: 320px;
+  height: 320px;
+  border: 1px solid #000;
+  object-fit: cover;
+}
+
+/* Paper metadata */
+.paper-meta .title {
+  font-weight: 600;
+  font-size: 1.625rem;
+  line-height: 1.4;
+  margin: 0 0 0.4rem 0;
+  color: var(--text);
+}
+
+.paper-meta .authors {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin: 0.2rem 0;
+  color: var(--text);
+}
+
+.author-me {
+  font-weight: 600;
+}
+
+.equal-contrib {
+  font-size: 1.2rem;
+  color: var(--muted);
+  margin-left: 0.2rem;
+}
+
+.paper-meta .venue {
+  font-size: 1.625rem;
+  color: var(--text);
+  margin: 0.3rem 0 0.5rem 0;
+  font-style: italic;
+}
+
+/* Inline badges (spotlight, oral, cover) */
+.badge-inline {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.1rem 0.3rem;
+  margin-left: 0.3rem;
+  background: #fffacd;
+  border: 1px solid #daa520;
+  color: #856404;
+  text-transform: uppercase;
+}
+
+/* Link styling */
+.links {
+  margin-top: 0.4rem;
+  font-size: 1.625rem;
+  color: var(--text);
+}
+
+.links a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+/* Abstract toggle */
+.abstract-toggle {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.abstract-toggle summary {
+  cursor: pointer;
+  color: var(--accent);
+}
+
+.abstract {
+  margin-top: 0.4rem;
+  color: var(--muted);
+  line-height: 1.6;
+  font-size: 1.2rem;
+}
+
+/* ========================================
+   YEAR GROUPING
+   ======================================== */
+
+.year-group {
+  margin: 2rem 0;
+}
+
+.year-h {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #666;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #ddd;
+}
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+
+@media (max-width: 720px) {
+  .paper-card {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-thumb-link {
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+  }
+
+  .paper-thumb {
+    width: 320px;
+    height: 320px;
+  }
+}

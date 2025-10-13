@@ -13,9 +13,7 @@
 /* BASE RULES */
 /**************/
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;200;250;300;325;350;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;250;300;325;350;400;500;600;700&display=swap');
+// Using system fonts for minimal, fast-loading design
 
 hr {
     border: 1px solid $lightGray;
@@ -28,25 +26,25 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Lato', -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   color: #404040;
   line-height: 1.7;
-  font-weight: 350;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 26px;
   height: 100%;
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  margin: 0 20px;
+  max-width: 1200px;
+  padding: 0 40px;
+  width: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Raleway', -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: gray;
-  font-weight: 350;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #444;
+  font-weight: 500;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -59,23 +57,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 56px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 44px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 36px;
 }
 
 h4 {
-  font-size: 18px;
-  color: #222;
+  font-size: 32px;
+  color: #444;
 }
 
 p {
@@ -221,7 +219,7 @@ p > img {
 nav {
   float: right;
   margin-top: 20px;
-  font-family: Lato;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
 
   @include mobile {
@@ -255,6 +253,7 @@ nav {
 }
 
 .wrapper-main {
+  padding-top: 60px;
   padding-bottom: 134px;
 }
 
@@ -271,27 +270,6 @@ footer {
   text-align: center;
 }
 
-body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
-}
-
-#bar {
-    background: #000;
-    height: 7px;
-    background-size: cover;
-    background-position: left 60%;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    overflow: hidden;
-    z-index: 1000;
-}
 
 .page h1{
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
