@@ -27,7 +27,7 @@
 /* Desktop: thumbnail left, content right */
 @media (min-width: 720px) {
   .paper-card {
-    grid-template-columns: 480px 1fr;
+    grid-template-columns: 384px 1fr;
     align-items: start;  /* Align to top */
   }
 }
@@ -36,7 +36,7 @@
 .paper-thumb-link {
   display: block;
   line-height: 0;
-  max-width: 480px;
+  max-width: 384px;
   width: 100%;
 }
 
@@ -50,14 +50,14 @@
 /* Paper metadata */
 .paper-meta .title {
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 1.6rem;
   line-height: 1.4;
   margin: 0 0 0.4rem 0;
   color: var(--text);
 }
 
 .paper-meta .authors {
-  font-size: 1.75rem;
+  font-size: 1.4rem;
   line-height: 1.5;
   margin: 0.2rem 0;
   color: var(--text);
@@ -68,7 +68,7 @@
 }
 
 .paper-meta .venue {
-  font-size: 1.75rem;
+  font-size: 1.4rem;
   color: var(--text);
   margin: 0.3rem 0 0.5rem 0;
   font-style: italic;
@@ -89,7 +89,7 @@
 /* Link styling */
 .links {
   margin-top: 0.4rem;
-  font-size: 1.75rem;
+  font-size: 1.4rem;
   color: var(--text);
 }
 

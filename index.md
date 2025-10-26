@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="header-section" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  <img src="../images/me_hammock.png" alt="Nicholas Boffi" style="width: 600px; border: 4px solid #000;">
+  <img src="../images/me_hammock.png" alt="Nicholas Boffi" style="width: 480px; border: 4px solid #000;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <h1 style="margin: 0 0 0.5rem 0; font-size: 4rem; color: #222;">Nicholas M. Boffi</h1>
-    <p style="margin: 0.5rem 0 0 0; font-size: 1.8rem;">nboffi at andrew dot cmu dot edu</p>
-    <p style="margin: 0 0; font-size: 1.8rem;">
+    <h1 style="margin: 0 0 0.5rem 0; font-size: 3.2rem; color: #222;">Nicholas M. Boffi</h1>
+    <p style="margin: 0.5rem 0 0 0; font-size: 1.44rem;">nboffi at andrew dot cmu dot edu</p>
+    <p style="margin: 0 0; font-size: 1.44rem;">
       <a href="https://scholar.google.com/citations?user=_jkX2q0AAAAJ&hl=en&oi=ao">Scholar</a> /
       <a href="https://github.com/nmboffi">GitHub</a> /
       <a href="https://x.com/nmboffi">Twitter</a> /
