@@ -67,12 +67,6 @@
   font-weight: 600;
 }
 
-.equal-contrib {
-  font-size: 1.4rem;
-  color: var(--muted);
-  margin-left: 0.2rem;
-}
-
 .paper-meta .venue {
   font-size: 1.75rem;
   color: var(--text);

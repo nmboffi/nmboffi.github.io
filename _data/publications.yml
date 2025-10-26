@@ -65,10 +65,9 @@
 - id: flow-map-matching
   title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
   authors:
-    - Nicholas M. Boffi
-    - Michael S. Albergo
+    - Nicholas M. Boffi*
+    - Michael S. Albergo*
     - Eric Vanden-Eijnden
-  equal_contribution: true
   venue: Transactions on Machine Learning Research
   venue_short: TMLR
   year: 2025
@@ -99,10 +98,9 @@
 - id: stochastic-interpolants
   title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
   authors:
-    - Michael S. Albergo
-    - Nicholas M. Boffi
+    - Michael S. Albergo*
+    - Nicholas M. Boffi*
     - Eric Vanden-Eijnden
-  equal_contribution: true
   venue: Journal of Machine Learning Research
   venue_short: JMLR
   year: 2025
@@ -239,10 +237,9 @@
 - id: nonparametric-adaptive
   title: "Non-parametric adaptive control and prediction: theory and randomized algorithms"
   authors:
-    - Nicholas M. Boffi
-    - Stephen Tu
+    - Nicholas M. Boffi*
+    - Stephen Tu*
     - Jean-Jacques Slotine
-  equal_contribution: true
   venue: Journal of Machine Learning Research
   venue_short: JMLR
   year: 2022
@@ -273,10 +270,9 @@
 - id: optimization-geometry
   title: "The role of optimization geometry in single neuron learning"
   authors:
-    - Nicholas M. Boffi
-    - Stephen Tu
+    - Nicholas M. Boffi*
+    - Stephen Tu*
     - Jean-Jacques E. Slotine
-  equal_contribution: true
   venue: International Conference on Artificial Intelligence and Statistics
   venue_short: AISTATS
   year: 2022
@@ -306,10 +302,9 @@
 - id: regret-bounds
   title: "Regret bounds for adaptive nonlinear control"
   authors:
-    - Nicholas M. Boffi
-    - Stephen Tu
+    - Nicholas M. Boffi*
+    - Stephen Tu*
     - Jean-Jacques E. Slotine
-  equal_contribution: true
   venue: Learning for Dynamics and Control
   venue_short: L4DC
   year: 2021
@@ -323,12 +318,11 @@
 - id: learning-certificates
   title: "Learning stability certificates from data"
   authors:
-    - Nicholas M. Boffi
-    - Stephen Tu
+    - Nicholas M. Boffi*
+    - Stephen Tu*
     - Nikolai Matni
     - Jean-Jacques E. Slotine
     - Vikas Sindhwani
-  equal_contribution: true
   venue: Conference on Robot Learning
   venue_short: CoRL
   year: 2020
