@@ -152,7 +152,7 @@
     grid-template-columns: 35% 1fr;  /* Thumbnail left, text right */
     padding: 0.75rem 15px;
     gap: 0.75rem;
-    align-items: start;
+    align-items: center;
   }
 
   .paper-list {
