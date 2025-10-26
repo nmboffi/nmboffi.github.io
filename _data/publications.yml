@@ -240,7 +240,7 @@
     - Nicholas M. Boffi*
     - Stephen Tu*
     - Jean-Jacques Slotine
-  venue: Journal of Machine Learning Research
+  venue: "Journal of Machine Learning Research (conference version at CDC 2021)"
   venue_short: JMLR
   year: 2022
   journal: "https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf"
@@ -347,21 +347,6 @@
   thumbnail: /images/figs/mirror_descent/implicit_reg.png
   highlight: false
   category: journal
-
-- id: cdc-nonparametric
-  title: "Nonparametric Adaptive Control and Prediction: Theory and Randomized Algorithms"
-  authors:
-    - Nicholas M. Boffi
-    - Stephen Tu
-    - Jean-Jacques Slotine
-  venue: IEEE Conference on Decision and Control
-  venue_short: CDC
-  year: 2021
-  conference: "https://ieeexplore.ieee.org/abstract/document/9682907/"
-  arxiv: "2106.03589"
-  thumbnail: /images/figs/learning_lyapunov/adaptive.png
-  highlight: false
-  category: conference
 
 - id: coordinate-transformation
   title: "Coordinate transformation methodology for simulating quasi-static elastoplastic solids"
