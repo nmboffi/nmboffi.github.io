@@ -27,6 +27,7 @@
   venue_short: NeurIPS
   year: 2025
   arxiv: "2505.18825"
+  code: "https://github.com/nmboffi/flow-maps"
   thumbnail: /images/figs/thumbnails/self_distill.png
   highlight: false
   category: conference
@@ -42,6 +43,7 @@
   venue_short: ICLR
   year: 2025
   arxiv: "2410.11275"
+  code: "https://github.com/nmboffi/structured_diffusion_public"
   thumbnail: /images/figs/thumbnails/shallow.png
   highlight: true
   category: conference
@@ -55,6 +57,7 @@
   venue_short: PRL
   year: 2025
   arxiv: "2411.14317"
+  code: "https://github.com/nmboffi/vicsek_public"
   thumbnail: /images/figs/thumbnails/vicsek.png
   highlight: false
   category: journal
@@ -70,6 +73,7 @@
   venue_short: TMLR
   year: 2025
   arxiv: "2406.07507"
+  code: "https://github.com/nmboffi/flow_map_matching_public"
   thumbnail: /images/figs/thumbnails/fmm.png
   highlight: true
   category: journal
@@ -104,6 +108,9 @@
   year: 2025
   arxiv: "2303.08797"
   note: "Accepted"
+  code:
+    - "https://github.com/malbergo/stochastic-interpolants"
+    - "https://github.com/nmboffi/jax-interpolants"
   thumbnail: /images/figs/thumbnails/interpolants.png
   highlight: true
   category: journal
@@ -121,6 +128,7 @@
   venue_short: ICML
   year: 2024
   arxiv: "2403.13724"
+  code: "https://github.com/interpolants/forecasting"
   thumbnail: /images/figs/thumbnails/follmer.png
   highlight: false
   category: conference
@@ -152,6 +160,7 @@
   year: 2024
   arxiv: "2309.12991"
   journal: "https://doi.org/10.1073/pnas.2318106121"
+  code: "https://github.com/nmboffi/active_pflows"
   volume: "121(25)"
   pages: "e2318106121"
   thumbnail: /images/figs/thumbnails/mips.png
@@ -183,6 +192,7 @@
   year: 2023
   arxiv: "2206.04642"
   journal: "https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta"
+  code: "https://github.com/nmboffi/sbtm"
   thumbnail: /images/figs/thumbnails/pflow.png
   highlight: true
   category: journal
@@ -198,6 +208,7 @@
   year: 2023
   journal: "https://elifesciences.org/reviewed-preprints/87895"
   biorxiv: "https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1"
+  code: "https://github.com/nmboffi/spin_glass_evodyn"
   thumbnail: /images/figs/thumbnails/lenski.png
   highlight: false
   category: journal
@@ -369,6 +380,7 @@
   pages: "053304"
   journal: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.053304"
   arxiv: "1904.04145"
+  code: "https://github.com/nmboffi/stzpp"
   thumbnail: /images/figs/bmg_trans/coordinate.png
   highlight: false
   category: journal
@@ -384,6 +396,7 @@
   pages: "107254"
   journal: "https://www.sciencedirect.com/science/article/pii/S0010465520300795"
   arxiv: "1904.03808"
+  code: "https://github.com/nmboffi/stzpp"
   thumbnail: /images/figs/bmg_trans/parallel.png
   highlight: false
   category: journal
@@ -414,6 +427,7 @@
   year: 2016
   volume: "12(8)"
   journal: "https://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00376"
+  code: "https://real-space.org"
   thumbnail: /images/figs/fock/hartree_fock.png
   highlight: false
   category: journal
@@ -430,6 +444,7 @@
   volume: "144"
   pages: "084104"
   journal: "https://aip.scitation.org/doi/abs/10.1063/1.4942187"
+  code: "https://real-space.org"
   thumbnail: /images/figs/thumbnails/asymptotic.png
   highlight: false
   category: journal

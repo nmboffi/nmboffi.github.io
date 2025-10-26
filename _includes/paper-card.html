@@ -47,7 +47,16 @@
         {% if p.arxiv or p.journal or p.conference %} / {% endif %}<a href="{{ p.project }}" target="_blank" rel="noopener">project</a>
       {% endif %}
       {% if p.code %}
-        {% if p.arxiv or p.journal or p.conference or p.project %} / {% endif %}<a href="{{ p.code }}" target="_blank" rel="noopener">code</a>
+        {% if p.arxiv or p.journal or p.conference or p.project %} / {% endif %}
+        {% if p.code.first %}
+          {% comment %}Handle array of code links{% endcomment %}
+          {% for code_link in p.code %}
+            <a href="{{ code_link }}" target="_blank" rel="noopener">code{% if forloop.length > 1 %} {{ forloop.index }}{% endif %}</a>{% unless forloop.last %} / {% endunless %}
+          {% endfor %}
+        {% else %}
+          {% comment %}Handle single code link{% endcomment %}
+          <a href="{{ p.code }}" target="_blank" rel="noopener">code</a>
+        {% endif %}
       {% endif %}
       {% if p.video %}
         {% if p.arxiv or p.journal or p.conference or p.project or p.code %} / {% endif %}<a href="{{ p.video }}" target="_blank" rel="noopener">video</a>
