@@ -20,7 +20,7 @@ layout: default
 
 <p>Previously, I was a Courant Instructor at the Courant Institute of Mathematical Sciences working with <a href="https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/">Eric Vanden-Eijnden</a>. I completed my PhD in applied mathematics at Harvard co-advised by <a href="https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao">Jean-Jacques Slotine</a> and <a href="https://scholar.google.com/citations?user=IS_xUuIAAAAJ&hl=en&oi=ao">Chris Rycroft</a>. A longer bio is <a href="{{ site.baseurl }}/about">here</a>.</p>
 
-<p style="margin-top: 1rem;">
+<p style="margin-top: 1rem; text-align: center;">
   Quick links:
   <a href="{{ site.baseurl }}/publications">Papers</a> /
   <a href="{{ site.baseurl }}/research">Research</a> /

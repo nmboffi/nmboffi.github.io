@@ -1,6 +1,20 @@
-# Publications data for Nicholas M. Boffi
+#thumbnails/interpolnts.png Publications data for Nicholas M. Boffi
 # highlight: true shows on homepage "selected papers"
 # thumbnail: path to thumbnail image (240x180px recommended)
+
+- id: boltznce
+  title: "BoltzNCE: Learning Likelihoods for Boltzmann Generation with Stochastic Interpolants and Noise Contrastive Estimation"
+  authors:
+    - Raghav Aggarwal
+    - Jerry Chen
+    - Nicholas M. Boffi
+    - David Ryan Koes
+  venue: arXiv preprint
+  year: 2025
+  arxiv: "2507.00846"
+  thumbnail: /images/figs/thumbnails/boltznce.png
+  highlight: false
+  category: preprint
 
 - id: consistency-model
   title: "How to build a consistency model: Learning flow maps via self-distillation"
@@ -11,7 +25,7 @@
   venue: arXiv preprint
   year: 2025
   arxiv: "2505.18825"
-  thumbnail: /images/figs/interpolant/flow_map.png
+  thumbnail: /images/figs/thumbnails/self_distill.png
   highlight: false
   category: preprint
 
@@ -26,7 +40,7 @@
   venue_short: ICLR
   year: 2025
   arxiv: "2410.11275"
-  thumbnail: /images/figs/interpolant/flow_map.png
+  thumbnail: /images/figs/thumbnails/shallow.png
   highlight: true
   category: conference
 
@@ -38,7 +52,7 @@
   venue: arXiv preprint
   year: 2024
   arxiv: "2411.14317"
-  thumbnail: /images/figs/mips/pnas_thumb.png
+  thumbnail: /images/figs/thumbnails/vicsek.png
   highlight: false
   category: preprint
 
@@ -53,7 +67,7 @@
   venue_short: TMLR
   year: 2025
   arxiv: "2406.07507"
-  thumbnail: /images/figs/interpolant/flow_map.png
+  thumbnail: /images/figs/thumbnails/fmm.png
   highlight: true
   category: journal
 
@@ -71,7 +85,7 @@
   year: 2024
   arxiv: "2401.08740"
   conference: "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_2"
-  thumbnail: /images/figs/interpolant/sit_thumb.png
+  thumbnail: /images/figs/thumbnails/sit.png
   highlight: false
   category: conference
 
@@ -87,7 +101,7 @@
   year: 2025
   arxiv: "2303.08797"
   note: "Accepted"
-  thumbnail: /images/figs/interpolant/stochastic_interpolants.png
+  thumbnail: /images/figs/thumbnails/interpolants.png
   highlight: true
   category: journal
 
@@ -104,7 +118,7 @@
   venue_short: ICML
   year: 2024
   arxiv: "2403.13724"
-  thumbnail: /images/figs/interpolant/forecasting.png
+  thumbnail: /images/figs/thumbnails/follmer.png
   highlight: false
   category: conference
 
@@ -121,7 +135,7 @@
   spotlight: true
   year: 2024
   arxiv: "2310.03725"
-  thumbnail: /images/figs/interpolant/data_dependent.png
+  thumbnail: /images/figs/thumbnails/couplings.png
   highlight: true
   category: conference
 
@@ -137,7 +151,7 @@
   journal: "https://doi.org/10.1073/pnas.2318106121"
   volume: "121(25)"
   pages: "e2318106121"
-  thumbnail: /images/figs/mips/pnas_thumb.png
+  thumbnail: /images/figs/thumbnails/mips.png
   highlight: true
   category: journal
 
@@ -152,7 +166,7 @@
   venue_short: ICLR
   year: 2024
   arxiv: "2310.03695"
-  thumbnail: /images/figs/interpolant/multimarginal.png
+  thumbnail: /images/figs/thumbnails/multimarginal.png
   highlight: false
   category: conference
 
@@ -166,7 +180,7 @@
   year: 2023
   arxiv: "2206.04642"
   journal: "https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta"
-  thumbnail: /images/figs/sbtm/fokker_planck.png
+  thumbnail: /images/figs/thumbnails/pflow.png
   highlight: true
   category: journal
 
@@ -181,7 +195,7 @@
   year: 2023
   journal: "https://elifesciences.org/reviewed-preprints/87895"
   biorxiv: "https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1"
-  thumbnail: /images/figs/lenski/evolution_thumb.png
+  thumbnail: /images/figs/thumbnails/lenski.png
   highlight: false
   category: journal
 
@@ -204,7 +218,7 @@
   venue_short: L4DC
   year: 2023
   conference: "https://proceedings.mlr.press/v211/abeyruwan23a.html"
-  thumbnail: /images/figs/learning_lyapunov/catching.png
+  thumbnail: /images/figs/thumbnails/catching.png
   highlight: false
   category: conference
 
@@ -238,7 +252,7 @@
   year: 2022
   conference: "https://proceedings.mlr.press/v168/zhang22a.html"
   arxiv: "2112.10690"
-  thumbnail: /images/figs/learning_lyapunov/adversarial.png
+  thumbnail: /images/figs/thumbnails/adversarial.png
   highlight: false
   category: conference
 
@@ -254,7 +268,7 @@
   year: 2022
   conference: "https://proceedings.mlr.press/v151/boffi22a.html"
   arxiv: "2006.08575"
-  thumbnail: /images/figs/mirror_descent/optimization_geom.png
+  thumbnail: /images/figs/thumbnails/single_neuron.png
   highlight: false
   category: conference
 
@@ -271,7 +285,7 @@
   year: 2021
   journal: "https://www.sciencedirect.com/science/article/pii/S1359645421003888"
   arxiv: "2103.00779"
-  thumbnail: /images/figs/bmg_trans/manifold.png
+  thumbnail: /images/figs/thumbnails/manifold_learning.png
   highlight: false
   category: journal
 
@@ -288,7 +302,7 @@
   oral: true
   conference: "https://proceedings.mlr.press/v144/boffi21a.html"
   arxiv: "2011.13101"
-  thumbnail: /images/figs/learning_lyapunov/regret.png
+  thumbnail: /images/figs/thumbnails/regret_bounds.png
   highlight: false
   category: conference
 
@@ -341,6 +355,16 @@
   highlight: false
   category: conference
 
+- id: phd-thesis
+  title: "Methods for scientific simulation, machine learning, and nonlinear control"
+  authors:
+    - Nicholas M. Boffi
+  venue: Harvard University
+  year: 2021
+  thumbnail: /images/figs/thumbnails/placeholder.png
+  highlight: false
+  category: thesis
+
 - id: coordinate-transformation
   title: "Coordinate transformation methodology for simulating quasi-static elastoplastic solids"
   authors:
@@ -382,7 +406,7 @@
   pages: "36-96"
   journal: "https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01248"
   arxiv: "1812.10995"
-  thumbnail: /images/figs/mirror_descent/distributed_sgd.png
+  thumbnail: /images/figs/thumbnails/distributed.png
   highlight: false
   category: journal
 
@@ -413,7 +437,7 @@
   volume: "144"
   pages: "084104"
   journal: "https://aip.scitation.org/doi/abs/10.1063/1.4942187"
-  thumbnail: /images/figs/fock/virtual_states.png
+  thumbnail: /images/figs/thumbnails/asymptotic.png
   highlight: false
   category: journal
 
@@ -428,7 +452,7 @@
   volume: "8"
   pages: "015001"
   journal: "https://iopscience.iop.org/article/10.1088/1749-4680/8/1/015001"
-  thumbnail: /images/figs/fock/block_tri.png
+  thumbnail: /images/figs/thumbnails/block_diagonal.png
   highlight: false
   category: journal
 
@@ -445,6 +469,6 @@
   volume: "138"
   pages: "084707"
   journal: "https://aip.scitation.org/doi/10.1063/1.4792643"
-  thumbnail: /images/figs/fock/dimensionality.png
+  thumbnail: /images/figs/thumbnails/tight_binding.png
   highlight: false
   category: journal

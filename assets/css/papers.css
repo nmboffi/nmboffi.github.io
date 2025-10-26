@@ -28,7 +28,8 @@
 /* Desktop: thumbnail left, content right */
 @media (min-width: 720px) {
   .paper-card {
-    grid-template-columns: 320px 1fr;
+    grid-template-columns: 480px 1fr;
+    align-items: start;  /* Align to top */
   }
 }
 
@@ -36,28 +37,28 @@
 .paper-thumb-link {
   display: block;
   line-height: 0;
-  width: 320px;
-  height: 320px;
+  max-width: 480px;
+  width: 100%;
 }
 
 .paper-thumb {
-  width: 320px;
-  height: 320px;
+  width: 100%;
+  height: auto;  /* Let height adjust based on aspect ratio */
   border: 1px solid #000;
-  object-fit: cover;
+  display: block;
 }
 
 /* Paper metadata */
 .paper-meta .title {
   font-weight: 600;
-  font-size: 1.625rem;
+  font-size: 2rem;
   line-height: 1.4;
   margin: 0 0 0.4rem 0;
   color: var(--text);
 }
 
 .paper-meta .authors {
-  font-size: 1.4rem;
+  font-size: 1.75rem;
   line-height: 1.5;
   margin: 0.2rem 0;
   color: var(--text);
@@ -68,13 +69,13 @@
 }
 
 .equal-contrib {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: var(--muted);
   margin-left: 0.2rem;
 }
 
 .paper-meta .venue {
-  font-size: 1.625rem;
+  font-size: 1.75rem;
   color: var(--text);
   margin: 0.3rem 0 0.5rem 0;
   font-style: italic;
@@ -95,7 +96,7 @@
 /* Link styling */
 .links {
   margin-top: 0.4rem;
-  font-size: 1.625rem;
+  font-size: 1.75rem;
   color: var(--text);
 }
 
@@ -153,13 +154,12 @@
   }
 
   .paper-thumb-link {
-    width: 320px;
-    height: 320px;
+    max-width: 480px;
     margin: 0 auto;
   }
 
   .paper-thumb {
-    width: 320px;
-    height: 320px;
+    width: 100%;
+    height: auto;
   }
 }
