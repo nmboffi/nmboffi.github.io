@@ -1047,15 +1047,23 @@ Modules - reusable parts of our design
 
 @media (max-width: 720px) {
   body {
-    font-size: 16px;  /* Scale down from 30px for mobile */
+    font-size: 14px;  /* Smaller base font for mobile */
   }
 
-  h1 { font-size: 28px; }
-  h2 { font-size: 24px; }
-  h3 { font-size: 20px; }
-  h4 { font-size: 18px; }
+  h1 { font-size: 22px; }
+  h2 { font-size: 18px; }
+  h3 { font-size: 16px; }
+  h4 { font-size: 15px; }
 
   .container {
-    padding: 0 20px;  /* Add side padding on mobile */
+    padding: 0 15px;  /* Tighter side padding on mobile */
+  }
+
+  p {
+    margin: 10px 0;  /* Tighter paragraph spacing */
+  }
+
+  h2 {
+    margin-top: 1.5rem !important;
   }
 }

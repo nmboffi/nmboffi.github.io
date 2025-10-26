@@ -21,19 +21,24 @@ layout: default
   .header-section {
     flex-direction: column !important;
     text-align: center !important;
+    gap: 0.5rem !important;
+    margin-bottom: 1rem !important;
   }
 
   .header-section img {
     width: 100% !important;
-    max-width: 400px !important;
+    max-width: 200px !important;
+    border: 2px solid #000 !important;
   }
 
   .header-section h1 {
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
+    margin: 0.25rem 0 !important;
   }
 
   .header-section p {
-    font-size: 1rem !important;
+    font-size: 0.85rem !important;
+    margin: 0.15rem 0 !important;
   }
 }
 </style>

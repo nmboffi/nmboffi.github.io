@@ -151,11 +151,12 @@
 @media (max-width: 720px) {
   .paper-card {
     grid-template-columns: 1fr;
-    padding: 1rem 20px;
+    padding: 0.75rem 15px;
+    gap: 0.75rem;
   }
 
   .paper-list {
-    margin: 1rem -20px;
+    margin: 0.75rem -15px;
   }
 
   .paper-thumb-link {
@@ -168,14 +169,24 @@
     height: auto;
   }
 
-  /* Font sizes scale with body (16px), using rem units */
+  /* Compact font sizes for mobile (body is 14px) */
   .paper-meta .title {
-    font-size: 1.2rem;  /* 19.2px on mobile */
+    font-size: 1.1rem;  /* ~15.4px on mobile */
+    margin-bottom: 0.2rem;
   }
 
-  .paper-meta .authors,
-  .paper-meta .venue,
+  .paper-meta .authors {
+    font-size: 0.95rem;  /* ~13.3px on mobile */
+    margin: 0.1rem 0;
+  }
+
+  .paper-meta .venue {
+    font-size: 0.95rem;  /* ~13.3px on mobile */
+    margin: 0.15rem 0 0.3rem 0;
+  }
+
   .links {
-    font-size: 1rem;  /* 16px on mobile */
+    font-size: 0.95rem;  /* ~13.3px on mobile */
+    margin-top: 0.2rem;
   }
 }
