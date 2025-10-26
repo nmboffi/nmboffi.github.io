@@ -8,9 +8,9 @@
 
 <article class="paper-card" role="listitem" itemscope itemtype="https://schema.org/ScholarlyArticle">
   {% if p.thumbnail %}
-  <a class="paper-thumb-link" href="{{ p.links.project | default: p.links.paper | default: p.arxiv }}" {% if p.links.project or p.links.paper or p.arxiv %}target="_blank" rel="noopener"{% endif %}>
+  <div class="paper-thumb-link">
     <img class="paper-thumb" loading="lazy" src="{{ p.thumbnail | relative_url }}" alt="Thumbnail for {{ p.title }}">
-  </a>
+  </div>
   {% endif %}
 
   <div class="paper-meta">

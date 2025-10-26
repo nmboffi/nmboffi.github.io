@@ -9,7 +9,8 @@
     - Jerry Chen
     - Nicholas M. Boffi
     - David Ryan Koes
-  venue: arXiv preprint
+  venue: Neural Information Processing Systems
+  venue_short: NeurIPS
   year: 2025
   arxiv: "2507.00846"
   thumbnail: /images/figs/thumbnails/boltznce.png
@@ -22,12 +23,13 @@
     - Nicholas M. Boffi
     - Michael S. Albergo
     - Eric Vanden-Eijnden
-  venue: arXiv preprint
+  venue: Neural Information Processing Systems
+  venue_short: NeurIPS
   year: 2025
   arxiv: "2505.18825"
   thumbnail: /images/figs/thumbnails/self_distill.png
   highlight: false
-  category: preprint
+  category: conference
 
 - id: shallow-diffusion
   title: "Shallow diffusion networks provably learn hidden low-dimensional structure"
@@ -49,12 +51,13 @@
   authors:
     - Nicholas M. Boffi
     - Eric Vanden-Eijnden
-  venue: arXiv preprint
-  year: 2024
+  venue: Physical Review Letters
+  venue_short: PRL
+  year: 2025
   arxiv: "2411.14317"
   thumbnail: /images/figs/thumbnails/vicsek.png
   highlight: false
-  category: preprint
+  category: journal
 
 - id: flow-map-matching
   title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
@@ -354,16 +357,6 @@
   thumbnail: /images/figs/learning_lyapunov/adaptive.png
   highlight: false
   category: conference
-
-- id: phd-thesis
-  title: "Methods for scientific simulation, machine learning, and nonlinear control"
-  authors:
-    - Nicholas M. Boffi
-  venue: Harvard University
-  year: 2021
-  thumbnail: /images/figs/thumbnails/placeholder.png
-  highlight: false
-  category: thesis
 
 - id: coordinate-transformation
   title: "Coordinate transformation methodology for simulating quasi-static elastoplastic solids"

@@ -21,17 +21,22 @@ layout: default
 <p>Previously, I was a Courant Instructor at the Courant Institute of Mathematical Sciences working with <a href="https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/">Eric Vanden-Eijnden</a>. I completed my PhD in applied mathematics at Harvard co-advised by <a href="https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao">Jean-Jacques Slotine</a> and <a href="https://scholar.google.com/citations?user=IS_xUuIAAAAJ&hl=en&oi=ao">Chris Rycroft</a>. A longer bio is <a href="{{ site.baseurl }}/about">here</a>.</p>
 
 <p style="margin-top: 1rem; text-align: center;">
-  Quick links:
-  <a href="{{ site.baseurl }}/publications">Papers</a> /
-  <a href="{{ site.baseurl }}/research">Research</a> /
-  <a href="{{ site.baseurl }}/teaching">Teaching</a> /
-  <a href="{{ site.baseurl }}/code">Code</a>
+  <a href="#research">Research</a> /
+  <a href="#publications">Publications</a> /
+  <a href="#code">Code</a> /
+  <a href="#teaching">Teaching</a>
 </p>
 
 <!-- <h2 style="margin-top: 2.5rem;">⭐ News ⭐</h2>
 
 {% include news-list.html news=site.data.news limit=6 %} -->
 
-<h2 style="margin-top: 2.5rem;">Papers</h2>
+{% include research-section.html %}
+
+<h2 id="publications" style="margin-top: 2.5rem;">Publications</h2>
 
 {% include papers-list.html papers=site.data.publications self_name="Nicholas M. Boffi" %}
+
+{% include code-section.html %}
+
+{% include teaching-section.html %}
