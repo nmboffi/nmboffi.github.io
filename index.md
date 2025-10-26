@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+<div class="header-section" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
   <img src="../images/me_hammock.png" alt="Nicholas Boffi" style="width: 600px; border: 4px solid #000;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <h1 style="margin: 0 0 0.5rem 0; font-size: 4rem; color: #222;">Nicholas M. Boffi</h1>
@@ -15,6 +15,28 @@ layout: default
     </p>
   </div>
 </div>
+
+<style>
+@media (max-width: 720px) {
+  .header-section {
+    flex-direction: column !important;
+    text-align: center !important;
+  }
+
+  .header-section img {
+    width: 100% !important;
+    max-width: 400px !important;
+  }
+
+  .header-section h1 {
+    font-size: 2rem !important;
+  }
+
+  .header-section p {
+    font-size: 1rem !important;
+  }
+}
+</style>
 
 <p>I am an assistant professor in the <a href="https://www.ml.cmu.edu">Machine Learning Department</a> and the <a href="https://www.cmu.edu/math/index.html">Department of Mathematical Sciences</a> at CMU. I lead a small, focused team that studies the algorithmic foundations of generative models and their application to problems across artificial intelligence, science, and engineering.</p>
 

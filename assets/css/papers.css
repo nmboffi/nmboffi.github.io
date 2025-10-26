@@ -151,15 +151,31 @@
 @media (max-width: 720px) {
   .paper-card {
     grid-template-columns: 1fr;
+    padding: 1rem 20px;
+  }
+
+  .paper-list {
+    margin: 1rem -20px;
   }
 
   .paper-thumb-link {
-    max-width: 480px;
+    max-width: 100%;
     margin: 0 auto;
   }
 
   .paper-thumb {
     width: 100%;
     height: auto;
+  }
+
+  /* Font sizes scale with body (16px), using rem units */
+  .paper-meta .title {
+    font-size: 1.2rem;  /* 19.2px on mobile */
+  }
+
+  .paper-meta .authors,
+  .paper-meta .venue,
+  .links {
+    font-size: 1rem;  /* 16px on mobile */
   }
 }
