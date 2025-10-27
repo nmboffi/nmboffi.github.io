@@ -51,7 +51,8 @@ layout: default
   <a href="#research">Research</a> /
   <a href="#publications">Publications</a> /
   <a href="#code">Code</a> /
-  <a href="#teaching">Teaching</a>
+  <a href="#teaching">Teaching</a> /
+  <a href="{{ site.baseurl }}/applications">Application Materials</a>
 </p>
 
 <!-- <h2 style="margin-top: 2.5rem;">⭐ News ⭐</h2>
