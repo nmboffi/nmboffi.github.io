@@ -27,7 +27,6 @@ layout: default
 
   .header-section img {
     width: 100% !important;
-    max-width: 200px !important;
     border: 2px solid #000 !important;
   }
 
