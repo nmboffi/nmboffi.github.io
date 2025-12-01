@@ -1,36 +1,40 @@
 #thumbnails/interpolnts.png Publications data for Nicholas M. Boffi
 # highlight: true shows on homepage "selected papers"
 # thumbnail: path to thumbnail image (240x180px recommended)
+# NOTE: Papers within the same year display in REVERSE order of how they appear here
 
-- id: boltznce
-  title: "BoltzNCE: Learning Likelihoods for Boltzmann Generation with Stochastic Interpolants and Noise Contrastive Estimation"
+- id: stochastic-interpolants
+  title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
   authors:
-    - Raghav Aggarwal
-    - Jerry Chen
-    - Nicholas M. Boffi
-    - David Ryan Koes
-  venue: Neural Information Processing Systems
-  venue_short: NeurIPS
-  year: 2025
-  arxiv: "2507.00846"
-  thumbnail: /images/figs/thumbnails/boltznce.png
-  highlight: false
-  category: preprint
-
-- id: consistency-model
-  title: "How to build a consistency model: Learning flow maps via self-distillation"
-  authors:
-    - Nicholas M. Boffi
-    - Michael S. Albergo
+    - Michael S. Albergo*
+    - Nicholas M. Boffi*
     - Eric Vanden-Eijnden
-  venue: Neural Information Processing Systems
-  venue_short: NeurIPS
+  venue: Journal of Machine Learning Research
+  venue_short: JMLR
   year: 2025
-  arxiv: "2505.18825"
-  code: "https://github.com/nmboffi/flow-maps"
-  thumbnail: /images/figs/thumbnails/self_distill.png
-  highlight: false
-  category: conference
+  arxiv: "2303.08797"
+  note: "First appeared on arXiv 2023"
+  code:
+    - "https://github.com/malbergo/stochastic-interpolants"
+    - "https://github.com/nmboffi/jax-interpolants"
+  thumbnail: /images/figs/thumbnails/interpolants.png
+  highlight: true
+  category: journal
+
+- id: flow-map-matching
+  title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
+  authors:
+    - Nicholas M. Boffi*
+    - Michael S. Albergo*
+    - Eric Vanden-Eijnden
+  venue: Transactions on Machine Learning Research
+  venue_short: TMLR
+  year: 2025
+  arxiv: "2406.07507"
+  code: "https://github.com/nmboffi/flow_map_matching_public"
+  thumbnail: /images/figs/thumbnails/fmm.png
+  highlight: true
+  category: journal
 
 - id: shallow-diffusion
   title: "Shallow diffusion networks provably learn hidden low-dimensional structure"
@@ -62,20 +66,81 @@
   highlight: false
   category: journal
 
-- id: flow-map-matching
-  title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
+- id: boltznce
+  title: "BoltzNCE: Learning Likelihoods for Boltzmann Generation with Stochastic Interpolants and Noise Contrastive Estimation"
   authors:
-    - Nicholas M. Boffi*
-    - Michael S. Albergo*
-    - Eric Vanden-Eijnden
-  venue: Transactions on Machine Learning Research
-  venue_short: TMLR
+    - Rishal Aggarwal
+    - Jacky Chen
+    - Nicholas M. Boffi
+    - David Ryan Koes
+  venue: Neural Information Processing Systems
+  venue_short: NeurIPS
   year: 2025
-  arxiv: "2406.07507"
-  code: "https://github.com/nmboffi/flow_map_matching_public"
-  thumbnail: /images/figs/thumbnails/fmm.png
-  highlight: true
-  category: journal
+  arxiv: "2507.00846"
+  thumbnail: /images/figs/thumbnails/boltznce.png
+  highlight: false
+  category: preprint
+
+- id: consistency-model
+  title: "How to build a consistency model: Learning flow maps via self-distillation"
+  authors:
+    - Nicholas M. Boffi
+    - Michael S. Albergo
+    - Eric Vanden-Eijnden
+  venue: Neural Information Processing Systems
+  venue_short: NeurIPS
+  year: 2025
+  arxiv: "2505.18825"
+  code: "https://github.com/nmboffi/flow-maps"
+  thumbnail: /images/figs/thumbnails/self_distill.png
+  highlight: false
+  category: conference
+
+- id: eigenfunction-extraction
+  title: "Eigenfunction Extraction for Ordered Representation Learning"
+  authors:
+    - Burak Varıcı
+    - Che-Ping Tsai
+    - Ritabrata Ray
+    - Nicholas M. Boffi
+    - Pradeep Ravikumar
+  venue: Preprint
+  year: 2025
+  arxiv: "2510.24672"
+  thumbnail: /images/figs/thumbnails/eigenfunction-extraction.png
+  highlight: false
+  category: preprint
+
+- id: ddpm-sublinear
+  title: "Sublinear iterations can suffice even for DDPMs"
+  authors:
+    - Matthew S. Zhang
+    - Stephen Huan
+    - Jerry Huang
+    - Nicholas M. Boffi
+    - Sitan Chen
+    - Sinho Chewi
+  venue: Preprint
+  year: 2025
+  arxiv: "2511.04844"
+  thumbnail: /images/figs/thumbnails/ddpm-sublinear.png
+  highlight: false
+  category: preprint
+
+- id: riemannian-flow-maps
+  title: "Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds"
+  authors:
+    - Oscar Davis
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Michael M. Bronstein
+    - Avishek Joey Bose
+  venue: Preprint
+  year: 2025
+  arxiv: "2510.21608"
+  thumbnail: /images/figs/thumbnails/riemannian-flow-maps.png
+  highlight: false
+  category: preprint
 
 - id: sit
   title: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
@@ -94,24 +159,6 @@
   thumbnail: /images/figs/thumbnails/sit.png
   highlight: false
   category: conference
-
-- id: stochastic-interpolants
-  title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
-  authors:
-    - Michael S. Albergo*
-    - Nicholas M. Boffi*
-    - Eric Vanden-Eijnden
-  venue: Journal of Machine Learning Research
-  venue_short: JMLR
-  year: 2025
-  arxiv: "2303.08797"
-  note: "Accepted"
-  code:
-    - "https://github.com/malbergo/stochastic-interpolants"
-    - "https://github.com/nmboffi/jax-interpolants"
-  thumbnail: /images/figs/thumbnails/interpolants.png
-  highlight: true
-  category: journal
 
 - id: forecasting-follmer
   title: "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes"

@@ -32,6 +32,7 @@
       {% if p.oral %} (Oral){% endif %}
       {% if p.cover %} (Cover){% endif %}
     </div>
+    {% if p.note %}<div class="note">{{ p.note }}</div>{% endif %}
 
     <div class="links">
       {% if p.arxiv %}

@@ -43,7 +43,6 @@
 .paper-thumb {
   width: 100%;
   height: auto;  /* Let height adjust based on aspect ratio */
-  border: 1px solid #000;
   display: block;
 }
 
@@ -72,6 +71,12 @@
   color: var(--text);
   margin: 0.3rem 0 0.5rem 0;
   font-style: italic;
+}
+
+.paper-meta .note {
+  font-size: 1.2rem;
+  color: var(--muted);
+  margin: -0.3rem 0 0.5rem 0;
 }
 
 /* Inline badges (spotlight, oral, cover) */
@@ -185,5 +190,10 @@
   .links {
     font-size: 0.95rem;  /* ~13.3px on mobile */
     margin-top: 0.2rem;
+  }
+
+  .paper-meta .note {
+    font-size: 0.85rem;
+    margin: -0.1rem 0 0.2rem 0;
   }
 }
