@@ -3,6 +3,60 @@
 # thumbnail: path to thumbnail image (240x180px recommended)
 # NOTE: Papers within the same year display in REVERSE order of how they appear here
 
+- id: few-shot-pde
+  title: "Pre-Generating Multi-Difficulty PDE Data for Few-Shot Neural PDE Solvers"
+  authors:
+    - Naman Choudhary
+    - Vedant Singh
+    - Ameet Talwalkar
+    - Nicholas M. Boffi
+    - Mikhail Khodak
+    - Tanya Marwah
+  venue: Preprint
+  year: 2025
+  arxiv: "2512.00564"
+  thumbnail: /images/figs/thumbnails/few-shot-pde.png
+  highlight: false
+  category: preprint
+
+- id: much-ado
+  title: "Much Ado About Noising: Dispelling the Myths of Generative Robotic Control"
+  authors:
+    - Chaoyi Pan
+    - Giri Anantharaman
+    - Nai-Chieh Huang
+    - Claire Jin
+    - Daniel Pfrommer
+    - Chenyang Yuan
+    - Frank Permenter
+    - Guannan Qu
+    - Nicholas M. Boffi†
+    - Guanya Shi†
+    - Max Simchowitz†
+  venue: Preprint
+  year: 2025
+  arxiv: "2512.01809"
+  thumbnail: /images/figs/thumbnails/much-ado.png
+  highlight: false
+  category: preprint
+
+- id: trajectory-tilting
+  title: "Test-time scaling of diffusions with flow maps"
+  authors:
+    - Amirmojtaba Sabour
+    - Michael S. Albergo
+    - Carles Domingo-Enrich
+    - Nicholas M. Boffi
+    - Sanja Fidler
+    - Karsten Kreis
+    - Eric Vanden-Eijnden
+  venue: Preprint
+  year: 2025
+  arxiv: "2511.22688"
+  thumbnail: /images/figs/thumbnails/trajectory-tilting.png
+  highlight: false
+  category: preprint
+
 - id: stochastic-interpolants
   title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
   authors:

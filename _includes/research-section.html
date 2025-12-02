@@ -1,6 +1,37 @@
 <h2 id="research" style="margin-top: 2.5rem;">Research Group</h2>
 
-<p>The aim of our group is to develop principled methods for generative modeling and to apply them to problems across core machine learning, science, and engineering. We are particularly interested in scientific challenges that are impossible with more traditional computational tools. Some current topics of interest include accelerated inference in flows and diffusions, inference-time guidance, and sampling from unnormalized measures. </p>
+<p>The goal of our group is to build a mathematical theory of generative artificial intelligence and to prove its power on scientific problems beyond the reach of traditional computational techniques. We search for frameworks that are <em>simple and elegant</em>, yet which (i) elucidate why existing approaches work; (ii) reveal new algorithmic possibilities; and (iii) scale to achieve state-of-the-art performance in practice.</p>
+
+<p>Questions we are currently studying include:</p>
+
+<details class="research-details">
+  <summary><strong>Foundations of generative modeling:</strong> <em>Why do flow and diffusion models work so well, and how do we move beyond the current paradigm?</em></summary>
+  <div class="research-details-content">
+    <p>In this direction, we have developed:</p>
+    <ul>
+      <li><em>Stochastic interpolants</em>, a mathematical framework that unifies and underlies modern flow and diffusion models</li>
+      <li><em>Flow maps</em>, a theory of accelerated generative models that explains and extends consistency models</li>
+    </ul>
+    <p>Current topics of interest include controlled generation, fine-tuning, inference-time guidance, accelerated sampling, and discrete generation.</p>
+  </div>
+</details>
+
+<details class="research-details">
+  <summary><strong>Generative models for science and engineering:</strong> <em>How can we solve scientific problems that are fundamentally impossible with traditional computational techniques?</em></summary>
+  <div class="research-details-content">
+    <p>We pursue applications in computer vision, robotics, physics, chemistry, and biology. In this direction, we have developed:</p>
+    <ul>
+      <li>Methods for <em>entropy production estimation</em> in non-equilibrium systems that scale to tens of thousands of dimensions</li>
+      <li>A <em>critical analysis of generative policies</em> in robotic control, showing they work for different reasons than commonly understood</li>
+      <li><em>Methods for accelerated generative modeling over geometric data</em>, combining flow maps with Riemannian geometry for scientific applications including proteins and molecules</li>
+    </ul>
+    <p>Current topics of interest include 3D shape generation, molecular sampling, scientific inverse problems, and rare event estimation in complex dynamical systems.</p>
+  </div>
+</details>
+
+<p>We collaborate closely with domain experts to ensure we are solving the right problems and targeting challenges that could not be addressed with more standard approaches.</p>
+
+<p>Beyond our core methodological work, we are early adopters of AI tools and are excited about a future of scientific research deeply integrated with AI. We investigate new ways to leverage language models and agentic automation to dramatically accelerate the pace of research within our group and beyond.</p>
 
 <div class="research-group-columns" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2rem;">
   <div>
@@ -31,6 +62,43 @@
 </div>
 
 <style>
+.research-details {
+  margin: 0.75rem 0;
+}
+
+.research-details summary {
+  cursor: pointer;
+  padding: 0.5rem 0;
+  list-style: none;
+}
+
+.research-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.research-details summary::before {
+  content: "▸ ";
+  color: var(--accent, #4183C4);
+}
+
+.research-details[open] summary::before {
+  content: "▾ ";
+}
+
+.research-details-content {
+  padding-left: 1rem;
+  border-left: 2px solid rgba(0, 0, 0, 0.1);
+  margin: 0.5rem 0 0.5rem 0.25rem;
+}
+
+.research-details-content p:first-child {
+  margin-top: 0;
+}
+
+.research-details-content p:last-child {
+  margin-bottom: 0;
+}
+
 @media (max-width: 768px) {
   .research-group-columns {
     grid-template-columns: 1fr !important;

@@ -17,8 +17,10 @@
     <h3 class="title" itemprop="name">{{ p.title }}</h3>
 
     <div class="authors">
+      {% assign self_with_star = self | append: "*" %}
+      {% assign self_with_dagger = self | append: "†" %}
       {% for a in p.authors %}
-        {% if a == self %}
+        {% if a == self or a == self_with_star or a == self_with_dagger %}
           <span class="author-me" itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ a }}</span></span>{% unless forloop.last %}, {% endunless %}
         {% else %}
           <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ a }}</span></span>{% unless forloop.last %}, {% endunless %}

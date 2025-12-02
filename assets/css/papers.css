@@ -22,13 +22,29 @@
   padding: 1.5rem 40px;
   border: none;
   background: none;
+  position: relative;
+}
+
+.paper-card::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 70%;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.paper-card:last-child::after {
+  display: none;  /* No line after the last paper */
 }
 
 /* Desktop: thumbnail left, content right */
 @media (min-width: 720px) {
   .paper-card {
-    grid-template-columns: 384px 1fr;
-    align-items: start;  /* Align to top */
+    grid-template-columns: 480px 1fr;
+    align-items: center;  /* Vertically center thumbnail and text */
   }
 }
 
@@ -36,7 +52,7 @@
 .paper-thumb-link {
   display: block;
   line-height: 0;
-  max-width: 384px;
+  max-width: 480px;
   width: 100%;
 }
 
