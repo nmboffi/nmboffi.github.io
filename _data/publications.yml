@@ -3,6 +3,23 @@
 # thumbnail: path to thumbnail image (240x180px recommended)
 # NOTE: Papers within the same year display in REVERSE order of how they appear here
 
+- id: likelihood-distillation
+  title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
+  authors:
+    - Xinyue Ai
+    - Yutong He
+    - Albert Gu
+    - Ruslan Salakhutdinov
+    - J. Zico Kolter
+    - Nicholas M. Boffi
+    - Max Simchowitz
+  venue: Preprint
+  year: 2025
+  arxiv: "2512.02636"
+  thumbnail: /images/figs/thumbnails/likelihood-distillation.png
+  highlight: false
+  category: preprint
+
 - id: few-shot-pde
   title: "Pre-Generating Multi-Difficulty PDE Data for Few-Shot Neural PDE Solvers"
   authors:

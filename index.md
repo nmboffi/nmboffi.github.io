@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="header-section" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
-  <img src="../images/me_hammock.png" alt="Nicholas Boffi" style="width: 480px; border: 4px solid #000;">
+  <img src="../images/me_hammock.png" alt="Nicholas Boffi" style="width: 480px; border: 2px solid #000;">
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <h1 style="margin: 0 0 0.5rem 0; font-size: 3.2rem; color: #222;">Nicholas M. Boffi</h1>
     <p style="margin: 0.5rem 0 0 0; font-size: 1.44rem;">nboffi at andrew dot cmu dot edu</p>
@@ -27,7 +27,7 @@ layout: default
 
   .header-section img {
     width: 100% !important;
-    border: 2px solid #000 !important;
+    border: 1px solid #000 !important;
   }
 
   .header-section h1 {
