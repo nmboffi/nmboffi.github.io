@@ -42,9 +42,9 @@ layout: default
 }
 </style>
 
-<p>I am an assistant professor in the <a href="https://www.ml.cmu.edu">Machine Learning Department</a> and the <a href="https://www.cmu.edu/math/index.html">Department of Mathematical Sciences</a> at CMU. I lead a focused team that studies the algorithmic foundations of generative models and their application to problems across science and engineering. Previously, I was a Courant Instructor at the Courant Institute of Mathematical Sciences working with <a href="https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/">Eric Vanden-Eijnden</a>. I completed my PhD in applied mathematics at Harvard co-advised by <a href="https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao">Jean-Jacques Slotine</a> and <a href="https://scholar.google.com/citations?user=IS_xUuIAAAAJ&hl=en&oi=ao">Chris Rycroft</a>. A longer bio is <a href="{{ site.baseurl }}/about">here</a>.</p>
+<p>I am an assistant professor in the <a href="https://www.ml.cmu.edu">Machine Learning Department</a> and the <a href="https://www.cmu.edu/math/index.html">Department of Mathematical Sciences</a> at CMU. I lead a small, focused team that develops principled methods for generative modeling and applies them to problems across artificial intelligence, science, and engineering. Previously, I was a Courant Instructor at the Courant Institute of Mathematical Sciences working with <a href="https://wp.nyu.edu/courantinstituteofmathematicalsciences-eve2/">Eric Vanden-Eijnden</a>. I completed my PhD at Harvard, co-advised between Harvard and MIT by <a href="https://scholar.google.com/citations?user=TcREpMQAAAAJ&hl=en&oi=ao">Jean-Jacques Slotine</a> and <a href="https://scholar.google.com/citations?user=IS_xUuIAAAAJ&hl=en&oi=ao">Chris Rycroft</a>. During my PhD, I also spent a year at Google Brain. A longer bio is <a href="{{ site.baseurl }}/about">here</a>.</p>
 
-<p>My work has been supported by a Department of Energy Computational Science Graduate Fellowship, a Fulbright Research Fellowship, a Google Student Researcher Award, and an NSF Mathematical Sciences Postdoctoral Research Fellowship.</p>
+<p>My work has been supported by a Department of Energy Computational Science Graduate Fellowship, a Fulbright Research Fellowship, and an NSF Mathematical Sciences Postdoctoral Research Fellowship.</p>
 
 <p style="margin-top: 1rem; text-align: center;">
   <a href="#research">Research</a> /
@@ -54,7 +54,7 @@ layout: default
   <a href="{{ site.baseurl }}/applications">Application Materials</a>
 </p>
 
-<!-- <h2 style="margin-top: 2.5rem;">⭐ News ⭐</h2>
+<!-- <h2 style="margin-top: 2.5rem;">News</h2>
 
 {% include news-list.html news=site.data.news limit=6 %} -->
 

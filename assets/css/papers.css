@@ -51,14 +51,17 @@
 /* Thumbnail */
 .paper-thumb-link {
   display: block;
-  line-height: 0;
   max-width: 480px;
   width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
 }
 
 .paper-thumb {
   width: 100%;
-  height: auto;  /* Let height adjust based on aspect ratio */
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
   display: block;
 }
 

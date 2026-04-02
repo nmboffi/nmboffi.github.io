@@ -3,6 +3,45 @@
 # thumbnail: path to thumbnail image (240x180px recommended)
 # NOTE: Papers within the same year display in REVERSE order of how they appear here
 
+- id: diamond-maps
+  title: "Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps"
+  authors:
+    - Peter Holderrieth
+    - Douglas Chen
+    - Luca Eyring
+    - Ishin Shah
+    - Giri Anantharaman
+    - Yutong He
+    - Zeynep Akata
+    - Tommi Jaakkola
+    - Nicholas M. Boffi†
+    - Max Simchowitz†
+  venue: Preprint
+  year: 2026
+  arxiv: "2602.05993"
+  thumbnail: /images/figs/thumbnails/diamond-maps.png
+  highlight: false
+  category: preprint
+
+- id: flow-language-model
+  title: "One-step Language Modeling via Continuous Denoising"
+  authors:
+    - Chanhyuk Lee
+    - Jaehoon Yoo
+    - Manan Agarwal
+    - Sheel Shah
+    - Jerry Huang
+    - Aditi Raghunathan
+    - Seunghoon Hong
+    - Nicholas M. Boffi
+    - Jinwoo Kim
+  venue: Preprint
+  year: 2026
+  arxiv: "2602.16813"
+  thumbnail: /images/figs/thumbnails/flow-language-model.png
+  highlight: false
+  category: preprint
+
 - id: likelihood-distillation
   title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
   authors:
@@ -13,12 +52,13 @@
     - J. Zico Kolter
     - Nicholas M. Boffi
     - Max Simchowitz
-  venue: Preprint
-  year: 2025
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2026
   arxiv: "2512.02636"
   thumbnail: /images/figs/thumbnails/likelihood-distillation.png
   highlight: false
-  category: preprint
+  category: conference
 
 - id: few-shot-pde
   title: "Pre-Generating Multi-Difficulty PDE Data for Few-Shot Neural PDE Solvers"
@@ -50,12 +90,13 @@
     - Nicholas M. Boffi†
     - Guanya Shi†
     - Max Simchowitz†
-  venue: Preprint
-  year: 2025
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2026
   arxiv: "2512.01809"
   thumbnail: /images/figs/thumbnails/much-ado.png
   highlight: false
-  category: preprint
+  category: conference
 
 - id: trajectory-tilting
   title: "Test-time scaling of diffusions with flow maps"
@@ -150,7 +191,7 @@
   arxiv: "2507.00846"
   thumbnail: /images/figs/thumbnails/boltznce.png
   highlight: false
-  category: preprint
+  category: conference
 
 - id: consistency-model
   title: "How to build a consistency model: Learning flow maps via self-distillation"
@@ -206,12 +247,13 @@
     - Nicholas M. Boffi
     - Michael M. Bronstein
     - Avishek Joey Bose
-  venue: Preprint
-  year: 2025
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2026
   arxiv: "2510.21608"
   thumbnail: /images/figs/thumbnails/riemannian-flow-maps.png
   highlight: false
-  category: preprint
+  category: conference
 
 - id: sit
   title: "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"

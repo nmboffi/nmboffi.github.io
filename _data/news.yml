@@ -1,35 +1,123 @@
 # News items for Nicholas M. Boffi
 # Displayed in reverse chronological order on homepage
 
+- date: 2026-03-30
+  title: Invited talk at Starkly Speaking
+  type: talk
+
+- date: 2026-03-25
+  title: Invited talk at CMU Frontiers in Machine Learning
+  type: talk
+
+- date: 2026-03-23
+  title: Invited talks at Penn State, Purdue, and University of Maryland
+  type: talk
+
+- date: 2026-01-20
+  title: Three papers accepted to ICLR 2026
+  description: "Joint Distillation, Much Ado About Noising, and Riemannian Flow Maps"
+  type: publication
+
+- date: 2025-11-23
+  title: Invited talk at University of Pittsburgh Analysis Seminar
+  type: talk
+
+- date: 2025-11-17
+  title: Invited talk at STARK Workshop
+  type: talk
+
+- date: 2025-10-22
+  title: Invited talk at SLMath (formerly MSRI)
+  type: talk
+
+- date: 2025-09-20
+  title: Two papers accepted to NeurIPS 2025
+  description: "How to Build a Consistency Model and BoltzNCE"
+  type: publication
+
+- date: 2025-07-31
+  title: Invited talk at AIP
+  type: talk
+
+- date: 2025-06-26
+  title: Invited talk at Banff International Research Station
+  type: talk
+
+- date: 2025-06-10
+  title: Invited talk at Chicago IMSI
+  type: talk
+
+- date: 2025-06-03
+  title: Invited talk at CMU Frontiers in Applied Mathematics
+  type: talk
+
+- date: 2025-03-11
+  title: Invited talk at Johns Hopkins University
+  type: talk
+
+- date: 2025-02-27
+  title: Invited talk at University of Wisconsin-Madison
+  type: talk
+
+- date: 2025-02-10
+  title: Invited talk at Caltech
+  type: talk
+
+- date: 2025-02-06
+  title: Invited talk at Duke University
+  type: talk
+
+- date: 2025-01-23
+  title: Invited talk at Oden Institute, UT Austin
+  type: talk
+
+- date: 2025-01-20
+  title: Paper accepted to ICLR 2025
+  description: "Shallow Diffusion Networks Provably Learn Hidden Low-Dimensional Structure"
+  type: publication
+
+- date: 2025-01-01
+  title: Stochastic Interpolants published in JMLR
+  description: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
+  type: publication
+
+- date: 2024-12-12
+  title: Invited talk at Genesis Therapeutics
+  type: talk
+
+- date: 2024-12-02
+  title: Invited talk at Flatiron Institute
+  type: talk
+
+- date: 2024-11-20
+  title: Invited talk at University of Chicago
+  type: talk
+
+- date: 2024-10-01
+  title: Invited talk at CECAM Workshop
+  type: talk
+
+- date: 2024-09-25
+  title: Invited talk at Allerton Conference
+  type: talk
+
 - date: 2024-08-19
   title: Started position at CMU
   description: Joined CMU as Assistant Professor in Machine Learning Department and Mathematical Sciences
   type: position
 
-- date: 2024-06-10
-  title: New preprint on Flow Map Matching
-  description: Posted new work on efficient training of continuous normalizing flows
-  type: publication
-  link: https://arxiv.org/abs/2406.07507
-
-- date: 2024-05-01
-  title: Two papers accepted to ICML 2024
-  description: "Papers on stochastic interpolants with data-dependent couplings (spotlight) and probabilistic forecasting accepted"
-  type: publication
-
 - date: 2024-06-18
   title: PNAS paper published
-  description: Work on deep learning probability flows and entropy production rates in active matter published in PNAS
+  description: Deep learning probability flows and entropy production rates in active matter
   type: publication
   link: https://doi.org/10.1073/pnas.2318106121
 
-- date: 2024-01-16
-  title: Paper accepted to ICLR 2024
-  description: Paper on multimarginal generative modeling with stochastic interpolants accepted
+- date: 2024-05-01
+  title: Two papers accepted to ICML 2024
+  description: "Data-dependent couplings (spotlight) and probabilistic forecasting"
   type: publication
 
-- date: 2023-03-15
-  title: Stochastic Interpolants preprint
-  description: Posted foundational work on stochastic interpolants framework
+- date: 2024-01-16
+  title: Paper accepted to ICLR 2024
+  description: Multimarginal generative modeling with stochastic interpolants
   type: publication
-  link: https://arxiv.org/abs/2303.08797
