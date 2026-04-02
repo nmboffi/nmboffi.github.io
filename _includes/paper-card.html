@@ -9,7 +9,7 @@
 <article class="paper-card" role="listitem" itemscope itemtype="https://schema.org/ScholarlyArticle">
   {% if p.thumbnail %}
   <div class="paper-thumb-link">
-    <img class="paper-thumb" loading="lazy" src="{{ p.thumbnail | relative_url }}" alt="Thumbnail for {{ p.title }}">
+    <img class="paper-thumb" loading="lazy" src="{{ p.thumbnail | relative_url }}" alt="Thumbnail for {{ p.title }}"{% if p.thumb_style %} style="{{ p.thumb_style }}"{% endif %}>
   </div>
   {% endif %}
 
