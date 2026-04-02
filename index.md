@@ -11,7 +11,7 @@ layout: default
       <a href="https://scholar.google.com/citations?user=_jkX2q0AAAAJ&hl=en&oi=ao">Scholar</a> /
       <a href="https://github.com/nmboffi">GitHub</a> /
       <a href="https://x.com/nmboffi">Twitter</a> /
-      <a href="https://nmboffi.github.io/pdfs/boffi_cv_8_25.pdf">CV</a>
+      <a href="https://nmboffi.github.io/pdfs/cv_boffi_4_26.pdf">CV</a>
     </p>
   </div>
 </div>
