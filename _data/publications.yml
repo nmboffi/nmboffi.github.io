@@ -1,7 +1,27 @@
-#thumbnails/interpolnts.png Publications data for Nicholas M. Boffi
-# highlight: true shows on homepage "selected papers"
-# thumbnail: path to thumbnail image (240x180px recommended)
-# NOTE: Papers within the same year display in REVERSE order of how they appear here
+# Publications data for Nicholas M. Boffi
+# Ordered chronologically within each year (most recent first) to match Google Scholar.
+# The template preserves this file order — do NOT rely on template-side sorting.
+
+# ── 2026 ──────────────────────────────────────────────────────────────────────
+
+- id: flow-language-model
+  title: "One-step Language Modeling via Continuous Denoising"
+  authors:
+    - Chanhyuk Lee
+    - Jaehoon Yoo
+    - Manan Agarwal
+    - Sheel Shah
+    - Jerry Huang
+    - Aditi Raghunathan
+    - Seunghoon Hong
+    - Nicholas M. Boffi†
+    - Jinwoo Kim†
+  venue: Preprint
+  year: 2026
+  arxiv: "2602.16813"
+  thumbnail: /images/figs/thumbnails/flow-language-model.png
+  highlight: false
+  category: preprint
 
 - id: diamond-maps
   title: "Diamond Maps: Efficient Reward Alignment via Stochastic Flow Maps"
@@ -23,25 +43,6 @@
   highlight: false
   category: preprint
 
-- id: flow-language-model
-  title: "One-step Language Modeling via Continuous Denoising"
-  authors:
-    - Chanhyuk Lee
-    - Jaehoon Yoo
-    - Manan Agarwal
-    - Sheel Shah
-    - Jerry Huang
-    - Aditi Raghunathan
-    - Seunghoon Hong
-    - Nicholas M. Boffi†
-    - Jinwoo Kim†
-  venue: Preprint
-  year: 2026
-  arxiv: "2602.16813"
-  thumbnail: /images/figs/thumbnails/flow-language-model.png
-  highlight: false
-  category: preprint
-
 - id: likelihood-distillation
   title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
   authors:
@@ -59,22 +60,6 @@
   thumbnail: /images/figs/thumbnails/likelihood-distillation.png
   highlight: false
   category: conference
-
-- id: few-shot-pde
-  title: "Pre-Generating Multi-Difficulty PDE Data for Few-Shot Neural PDE Solvers"
-  authors:
-    - Naman Choudhary
-    - Vedant Singh
-    - Ameet Talwalkar
-    - Nicholas M. Boffi
-    - Mikhail Khodak
-    - Tanya Marwah
-  venue: Preprint
-  year: 2025
-  arxiv: "2512.00564"
-  thumbnail: /images/figs/thumbnails/few-shot-pde.png
-  highlight: false
-  category: preprint
 
 - id: much-ado
   title: "Much Ado About Noising: Dispelling the Myths of Generative Robotic Control"
@@ -98,6 +83,40 @@
   highlight: false
   category: conference
 
+- id: riemannian-flow-maps
+  title: "Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds"
+  authors:
+    - Oscar Davis
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Michael M. Bronstein
+    - Avishek Joey Bose
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2026
+  arxiv: "2510.21608"
+  thumbnail: /images/figs/thumbnails/riemannian-flow-maps.png
+  highlight: false
+  category: conference
+
+# ── 2025 ──────────────────────────────────────────────────────────────────────
+
+- id: few-shot-pde
+  title: "Pre-Generating Multi-Difficulty PDE Data for Few-Shot Neural PDE Solvers"
+  authors:
+    - Naman Choudhary
+    - Vedant Singh
+    - Ameet Talwalkar
+    - Nicholas M. Boffi
+    - Mikhail Khodak
+    - Tanya Marwah
+  venue: Preprint
+  year: 2025
+  arxiv: "2512.00564"
+  thumbnail: /images/figs/thumbnails/few-shot-pde.png
+  highlight: false
+  category: preprint
+
 - id: trajectory-tilting
   title: "Test-time scaling of diffusions with flow maps"
   authors:
@@ -115,68 +134,36 @@
   highlight: false
   category: preprint
 
-- id: stochastic-interpolants
-  title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
+- id: ddpm-sublinear
+  title: "Sublinear iterations can suffice even for DDPMs"
   authors:
-    - Michael S. Albergo*
-    - Nicholas M. Boffi*
-    - Eric Vanden-Eijnden
-  venue: Journal of Machine Learning Research
-  venue_short: JMLR
-  year: 2025
-  arxiv: "2303.08797"
-  note: "First appeared on arXiv 2023"
-  code:
-    - "https://github.com/malbergo/stochastic-interpolants"
-    - "https://github.com/nmboffi/jax-interpolants"
-  thumbnail: /images/figs/thumbnails/interpolants.png
-  highlight: true
-  category: journal
-
-- id: flow-map-matching
-  title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
-  authors:
-    - Nicholas M. Boffi*
-    - Michael S. Albergo*
-    - Eric Vanden-Eijnden
-  venue: Transactions on Machine Learning Research
-  venue_short: TMLR
-  year: 2025
-  arxiv: "2406.07507"
-  code: "https://github.com/nmboffi/flow_map_matching_public"
-  thumbnail: /images/figs/thumbnails/fmm.png
-  highlight: true
-  category: journal
-
-- id: shallow-diffusion
-  title: "Shallow diffusion networks provably learn hidden low-dimensional structure"
-  authors:
+    - Matthew S. Zhang
+    - Stephen Huan
+    - Jerry Huang
     - Nicholas M. Boffi
-    - Arthur Jacot
-    - Stephen Tu
-    - Ingvar M. Ziemann
-  venue: International Conference on Learning Representations
-  venue_short: ICLR
+    - Sitan Chen
+    - Sinho Chewi
+  venue: Preprint
   year: 2025
-  arxiv: "2410.11275"
-  code: "https://github.com/nmboffi/structured_diffusion_public"
-  thumbnail: /images/figs/thumbnails/shallow.png
-  highlight: true
-  category: conference
-
-- id: flocking-dynamics
-  title: "Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking"
-  authors:
-    - Nicholas M. Boffi
-    - Eric Vanden-Eijnden
-  venue: Physical Review Letters
-  venue_short: PRL
-  year: 2025
-  arxiv: "2411.14317"
-  code: "https://github.com/nmboffi/vicsek_public"
-  thumbnail: /images/figs/thumbnails/vicsek.png
+  arxiv: "2511.04844"
+  thumbnail: /images/figs/thumbnails/ddpm-sublinear.png
   highlight: false
-  category: journal
+  category: preprint
+
+- id: eigenfunction-extraction
+  title: "Eigenfunction Extraction for Ordered Representation Learning"
+  authors:
+    - Burak Varıcı
+    - Che-Ping Tsai
+    - Ritabrata Ray
+    - Nicholas M. Boffi
+    - Pradeep Ravikumar
+  venue: Preprint
+  year: 2025
+  arxiv: "2510.24672"
+  thumbnail: /images/figs/thumbnails/eigenfunction-extraction.png
+  highlight: false
+  category: preprint
 
 - id: boltznce
   title: "BoltzNCE: Learning Likelihoods for Boltzmann Generation with Stochastic Interpolants and Noise Contrastive Estimation"
@@ -208,50 +195,86 @@
   highlight: false
   category: conference
 
-- id: eigenfunction-extraction
-  title: "Eigenfunction Extraction for Ordered Representation Learning"
+- id: flocking-dynamics
+  title: "Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking"
   authors:
-    - Burak Varıcı
-    - Che-Ping Tsai
-    - Ritabrata Ray
     - Nicholas M. Boffi
-    - Pradeep Ravikumar
-  venue: Preprint
+    - Eric Vanden-Eijnden
+  venue: Physical Review Letters
+  venue_short: PRL
   year: 2025
-  arxiv: "2510.24672"
-  thumbnail: /images/figs/thumbnails/eigenfunction-extraction.png
+  arxiv: "2411.14317"
+  code: "https://github.com/nmboffi/vicsek_public"
+  thumbnail: /images/figs/thumbnails/vicsek.png
   highlight: false
-  category: preprint
+  category: journal
 
-- id: ddpm-sublinear
-  title: "Sublinear iterations can suffice even for DDPMs"
+- id: shallow-diffusion
+  title: "Shallow diffusion networks provably learn hidden low-dimensional structure"
   authors:
-    - Matthew S. Zhang
-    - Stephen Huan
-    - Jerry Huang
     - Nicholas M. Boffi
-    - Sitan Chen
-    - Sinho Chewi
-  venue: Preprint
-  year: 2025
-  arxiv: "2511.04844"
-  thumbnail: /images/figs/thumbnails/ddpm-sublinear.png
-  highlight: false
-  category: preprint
-
-- id: riemannian-flow-maps
-  title: "Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds"
-  authors:
-    - Oscar Davis
-    - Michael S. Albergo
-    - Nicholas M. Boffi
-    - Michael M. Bronstein
-    - Avishek Joey Bose
+    - Arthur Jacot
+    - Stephen Tu
+    - Ingvar M. Ziemann
   venue: International Conference on Learning Representations
   venue_short: ICLR
-  year: 2026
-  arxiv: "2510.21608"
-  thumbnail: /images/figs/thumbnails/riemannian-flow-maps.png
+  year: 2025
+  arxiv: "2410.11275"
+  code: "https://github.com/nmboffi/structured_diffusion_public"
+  thumbnail: /images/figs/thumbnails/shallow.png
+  highlight: true
+  category: conference
+
+- id: flow-map-matching
+  title: "Flow map matching with stochastic interpolants: A mathematical framework for consistency models"
+  authors:
+    - Nicholas M. Boffi*
+    - Michael S. Albergo*
+    - Eric Vanden-Eijnden
+  venue: Transactions on Machine Learning Research
+  venue_short: TMLR
+  year: 2025
+  arxiv: "2406.07507"
+  code: "https://github.com/nmboffi/flow_map_matching_public"
+  thumbnail: /images/figs/thumbnails/fmm.png
+  highlight: true
+  category: journal
+
+- id: stochastic-interpolants
+  title: "Stochastic Interpolants: A Unifying Framework for Flows and Diffusions"
+  authors:
+    - Michael S. Albergo*
+    - Nicholas M. Boffi*
+    - Eric Vanden-Eijnden
+  venue: Journal of Machine Learning Research
+  venue_short: JMLR
+  year: 2025
+  arxiv: "2303.08797"
+  note: "First appeared on arXiv 2023"
+  code:
+    - "https://github.com/malbergo/stochastic-interpolants"
+    - "https://github.com/nmboffi/jax-interpolants"
+  thumbnail: /images/figs/thumbnails/interpolants.png
+  highlight: true
+  category: journal
+
+# ── 2024 ──────────────────────────────────────────────────────────────────────
+
+- id: forecasting-follmer
+  title: "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes"
+  authors:
+    - Yifan Chen
+    - Mark Goldstein
+    - Mengjian Hua
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: International Conference on Machine Learning
+  venue_short: ICML
+  year: 2024
+  arxiv: "2403.13724"
+  code: "https://github.com/interpolants/forecasting"
+  thumbnail: /images/figs/thumbnails/follmer.png
   highlight: false
   category: conference
 
@@ -273,24 +296,6 @@
   highlight: false
   category: conference
 
-- id: forecasting-follmer
-  title: "Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes"
-  authors:
-    - Yifan Chen
-    - Mark Goldstein
-    - Mengjian Hua
-    - Michael S. Albergo
-    - Nicholas M. Boffi
-    - Eric Vanden-Eijnden
-  venue: International Conference on Machine Learning
-  venue_short: ICML
-  year: 2024
-  arxiv: "2403.13724"
-  code: "https://github.com/interpolants/forecasting"
-  thumbnail: /images/figs/thumbnails/follmer.png
-  highlight: false
-  category: conference
-
 - id: data-dependent-couplings
   title: "Stochastic interpolants with data-dependent couplings"
   authors:
@@ -306,6 +311,21 @@
   arxiv: "2310.03725"
   thumbnail: /images/figs/thumbnails/couplings.png
   highlight: true
+  category: conference
+
+- id: multimarginal
+  title: "Multimarginal generative modeling with stochastic interpolants"
+  authors:
+    - Michael S. Albergo
+    - Nicholas M. Boffi
+    - Michael Lindsey
+    - Eric Vanden-Eijnden
+  venue: International Conference on Learning Representations
+  venue_short: ICLR
+  year: 2024
+  arxiv: "2310.03695"
+  thumbnail: /images/figs/thumbnails/multimarginal.png
+  highlight: false
   category: conference
 
 - id: epr-active-matter
@@ -325,52 +345,7 @@
   highlight: true
   category: journal
 
-- id: multimarginal
-  title: "Multimarginal generative modeling with stochastic interpolants"
-  authors:
-    - Michael S. Albergo
-    - Nicholas M. Boffi
-    - Michael Lindsey
-    - Eric Vanden-Eijnden
-  venue: International Conference on Learning Representations
-  venue_short: ICLR
-  year: 2024
-  arxiv: "2310.03695"
-  thumbnail: /images/figs/thumbnails/multimarginal.png
-  highlight: false
-  category: conference
-
-- id: fokker-planck
-  title: "Probability flow solution of the Fokker-Planck equation"
-  authors:
-    - Nicholas M. Boffi
-    - Eric Vanden-Eijnden
-  venue: Machine Learning Science and Technology
-  venue_short: MLST
-  year: 2023
-  arxiv: "2206.04642"
-  journal: "https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta"
-  code: "https://github.com/nmboffi/sbtm"
-  thumbnail: /images/figs/thumbnails/pflow.png
-  thumb_style: "max-height: 780px"
-  highlight: true
-  category: journal
-
-- id: epistasis-evolution
-  title: "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution"
-  authors:
-    - Nicholas M. Boffi
-    - Yipei Guo
-    - Chris H. Rycroft
-    - Ariel Amir
-  venue: eLife
-  year: 2023
-  journal: "https://elifesciences.org/reviewed-preprints/87895"
-  biorxiv: "https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1"
-  code: "https://github.com/nmboffi/spin_glass_evodyn"
-  thumbnail: /images/figs/thumbnails/lenski.png
-  highlight: false
-  category: journal
+# ── 2023 ──────────────────────────────────────────────────────────────────────
 
 - id: agile-catching
   title: "Agile Catching with Whole-Body MPC and Blackbox Policy Learning"
@@ -395,21 +370,39 @@
   highlight: false
   category: conference
 
-- id: nonparametric-adaptive
-  title: "Non-parametric adaptive control and prediction: theory and randomized algorithms"
+- id: epistasis-evolution
+  title: "How microscopic epistasis and clonal interference shape the fitness trajectory in a spin glass model of microbial long-term evolution"
   authors:
-    - Nicholas M. Boffi*
-    - Stephen Tu*
-    - Jean-Jacques Slotine
-  venue: "Journal of Machine Learning Research (conference version at CDC 2021)"
-  venue_short: JMLR
-  year: 2022
-  journal: "https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf"
-  conference: "https://ieeexplore.ieee.org/abstract/document/9682907/"
-  arxiv: "2106.03589"
-  thumbnail: /images/figs/learning_lyapunov/adaptive.png
+    - Nicholas M. Boffi
+    - Yipei Guo
+    - Chris H. Rycroft
+    - Ariel Amir
+  venue: eLife
+  year: 2023
+  journal: "https://elifesciences.org/reviewed-preprints/87895"
+  biorxiv: "https://www.biorxiv.org/content/10.1101/2023.01.16.524306v1"
+  code: "https://github.com/nmboffi/spin_glass_evodyn"
+  thumbnail: /images/figs/thumbnails/lenski.png
+  highlight: false
+  category: journal
+
+- id: fokker-planck
+  title: "Probability flow solution of the Fokker-Planck equation"
+  authors:
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: Machine Learning Science and Technology
+  venue_short: MLST
+  year: 2023
+  arxiv: "2206.04642"
+  journal: "https://iopscience.iop.org/article/10.1088/2632-2153/ace2aa/meta"
+  code: "https://github.com/nmboffi/sbtm"
+  thumbnail: /images/figs/thumbnails/pflow.png
+  thumb_style: "max-height: 780px"
   highlight: true
   category: journal
+
+# ── 2022 ──────────────────────────────────────────────────────────────────────
 
 - id: adversarial-certificates
   title: "Adversarially robust stability certificates can be sample efficient"
@@ -428,6 +421,22 @@
   highlight: false
   category: conference
 
+- id: nonparametric-adaptive
+  title: "Non-parametric adaptive control and prediction: theory and randomized algorithms"
+  authors:
+    - Nicholas M. Boffi*
+    - Stephen Tu*
+    - Jean-Jacques Slotine
+  venue: "Journal of Machine Learning Research (conference version at CDC 2021)"
+  venue_short: JMLR
+  year: 2022
+  journal: "https://www.jmlr.org/papers/volume23/22-0022/22-0022.pdf"
+  conference: "https://ieeexplore.ieee.org/abstract/document/9682907/"
+  arxiv: "2106.03589"
+  thumbnail: /images/figs/learning_lyapunov/adaptive.png
+  highlight: true
+  category: journal
+
 - id: optimization-geometry
   title: "The role of optimization geometry in single neuron learning"
   authors:
@@ -442,6 +451,8 @@
   thumbnail: /images/figs/thumbnails/single_neuron.png
   highlight: false
   category: conference
+
+# ── 2021 ──────────────────────────────────────────────────────────────────────
 
 - id: manifold-coarse-graining
   title: "Manifold learning for coarse-graining atomistic simulations: Application to amorphous solids"
@@ -476,6 +487,24 @@
   highlight: false
   category: conference
 
+- id: implicit-regularization
+  title: "Implicit regularization and momentum algorithms in nonlinearly parameterized adaptive control and prediction"
+  authors:
+    - Nicholas M. Boffi
+    - Jean-Jacques E. Slotine
+  venue: Neural Computation
+  year: 2021
+  volume: "33(3)"
+  pages: "590-673"
+  cover: true
+  journal: "https://direct.mit.edu/neco/article-abstract/33/3/590/97492"
+  arxiv: "1912.13154"
+  thumbnail: /images/figs/mirror_descent/implicit_reg.png
+  highlight: false
+  category: journal
+
+# ── 2020 ──────────────────────────────────────────────────────────────────────
+
 - id: learning-certificates
   title: "Learning stability certificates from data"
   authors:
@@ -492,22 +521,6 @@
   thumbnail: /images/figs/learning_lyapunov/certificates.png
   highlight: false
   category: conference
-
-- id: implicit-regularization
-  title: "Implicit regularization and momentum algorithms in nonlinearly parameterized adaptive control and prediction"
-  authors:
-    - Nicholas M. Boffi
-    - Jean-Jacques E. Slotine
-  venue: Neural Computation
-  year: 2021
-  volume: "33(3)"
-  pages: "590-673"
-  cover: true
-  journal: "https://direct.mit.edu/neco/article-abstract/33/3/590/97492"
-  arxiv: "1912.13154"
-  thumbnail: /images/figs/mirror_descent/implicit_reg.png
-  highlight: false
-  category: journal
 
 - id: coordinate-transformation
   title: "Coordinate transformation methodology for simulating quasi-static elastoplastic solids"
@@ -556,6 +569,8 @@
   highlight: false
   category: journal
 
+# ── 2016 ──────────────────────────────────────────────────────────────────────
+
 - id: hartree-fock
   title: "Efficient computation of the Hartree-Fock Exchange in real-space with projection operators"
   authors:
@@ -589,6 +604,8 @@
   highlight: false
   category: journal
 
+# ── 2014 ──────────────────────────────────────────────────────────────────────
+
 - id: block-tridiagonal
   title: "Characterizing the inverses of block tridiagonal, block Toeplitz matrices"
   authors:
@@ -603,6 +620,8 @@
   thumbnail: /images/figs/thumbnails/block_diagonal.png
   highlight: false
   category: journal
+
+# ── 2013 ──────────────────────────────────────────────────────────────────────
 
 - id: dimensionality-decay
   title: "The role of dimensionality in the decay of surface effects"

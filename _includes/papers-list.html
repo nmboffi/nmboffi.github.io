@@ -20,8 +20,9 @@
   {% assign list = list | where_exp: "p", "p.highlight == true" %}
 {% endif %}
 
-{% comment %} Sort by year, most recent first {% endcomment %}
-{% assign list = list | sort: "year" | reverse %}
+{% comment %} Papers display in YAML file order within each year.
+     The YAML file is maintained in chronological order (most recent first).
+     We only group/sort by year for structure — within-year order comes from the file. {% endcomment %}
 
 {% if include.group_by_year %}
   {% comment %} Group by year {% endcomment %}
