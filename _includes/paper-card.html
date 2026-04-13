@@ -45,11 +45,14 @@
       {% elsif p.conference %}
         {% if p.arxiv %} / {% endif %}<a href="{{ p.conference }}" target="_blank" rel="noopener">paper</a>
       {% endif %}
+      {% if p.blog %}
+        {% if p.arxiv or p.journal or p.conference %} / {% endif %}<a href="{{ p.blog }}" target="_blank" rel="noopener">blog</a>
+      {% endif %}
       {% if p.project %}
-        {% if p.arxiv or p.journal or p.conference %} / {% endif %}<a href="{{ p.project }}" target="_blank" rel="noopener">project</a>
+        {% if p.arxiv or p.journal or p.conference or p.blog %} / {% endif %}<a href="{{ p.project }}" target="_blank" rel="noopener">project</a>
       {% endif %}
       {% if p.code %}
-        {% if p.arxiv or p.journal or p.conference or p.project %} / {% endif %}
+        {% if p.arxiv or p.journal or p.conference or p.blog or p.project %} / {% endif %}
         {% if p.code.first %}
           {% comment %}Handle array of code links{% endcomment %}
           {% for code_link in p.code %}
@@ -61,10 +64,10 @@
         {% endif %}
       {% endif %}
       {% if p.video %}
-        {% if p.arxiv or p.journal or p.conference or p.project or p.code %} / {% endif %}<a href="{{ p.video }}" target="_blank" rel="noopener">video</a>
+        {% if p.arxiv or p.journal or p.conference or p.blog or p.project or p.code %} / {% endif %}<a href="{{ p.video }}" target="_blank" rel="noopener">video</a>
       {% endif %}
       {% if p.biorxiv %}
-        {% if p.arxiv or p.journal or p.conference or p.project or p.code or p.video %} / {% endif %}<a href="{{ p.biorxiv }}" target="_blank" rel="noopener">bioRxiv</a>
+        {% if p.arxiv or p.journal or p.conference or p.blog or p.project or p.code or p.video %} / {% endif %}<a href="{{ p.biorxiv }}" target="_blank" rel="noopener">bioRxiv</a>
       {% endif %}
     </div>
 

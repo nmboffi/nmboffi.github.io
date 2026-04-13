@@ -5,7 +5,7 @@
 # ── 2026 ──────────────────────────────────────────────────────────────────────
 
 - id: flow-language-model
-  title: "One-step Language Modeling via Continuous Denoising"
+  title: "Flow Map Language Models"
   authors:
     - Chanhyuk Lee
     - Jaehoon Yoo
@@ -19,6 +19,7 @@
   venue: Preprint
   year: 2026
   arxiv: "2602.16813"
+  blog: "https://one-step-lm.github.io/blog/index.html"
   thumbnail: /images/figs/thumbnails/flow-language-model.png
   highlight: false
   category: preprint
