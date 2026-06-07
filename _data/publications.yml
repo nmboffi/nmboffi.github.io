@@ -4,6 +4,36 @@
 
 # ── 2026 ──────────────────────────────────────────────────────────────────────
 
+- id: reward-hacking-tilting
+  title: "Are We Really Tilting? The Mechanics of Reward Guidance in Flow and Diffusion Models"
+  authors:
+    - Sanjit Dandapanthula
+    - Nicholas M. Boffi
+  venue: Preprint
+  year: 2026
+  arxiv: "2606.02884"
+  thumbnail: /images/figs/thumbnails/reward-hacking-tilting.png
+  thumb_style: "max-height: none"
+  highlight: false
+  category: preprint
+
+- id: flow-map-guidance
+  title: "How to Guide Your Flow: Few-Step Alignment via Flow Map Reward Guidance"
+  authors:
+    - Jerry Y. Huang*
+    - Justin Lin*
+    - Sheel Shah
+    - Kartik Nair
+    - Nicholas M. Boffi
+  venue: Preprint
+  year: 2026
+  arxiv: "2604.27147"
+  thumbnail: /images/figs/thumbnails/flow-map-guidance.png
+  thumb_style: "max-height: none"
+  equal_contribution: true
+  highlight: false
+  category: preprint
+
 - id: flow-language-model
   title: "Flow Map Language Models"
   authors:
