@@ -4,6 +4,115 @@
 
 # ── 2026 ──────────────────────────────────────────────────────────────────────
 
+- id: looped-flows
+  title: "Thinking with Looped Flows"
+  authors:
+    - Ayhan Suleymanzade
+    - Chanhyuk Lee
+    - Floor Eijkelboom
+    - Nicholas M. Boffi
+    - İsmail İlkan Ceylan†
+    - Jinwoo Kim†
+  venue: Preprint
+  year: 2026
+  arxiv: "2609.11801"
+  thumbnail: /images/figs/thumbnails/looped-flows.png
+  highlight: false
+  category: preprint
+
+- id: self-conditioned-fmlm
+  title: "Self-conditioned Flow Map Language Models via Fixed-point Flows"
+  authors:
+    - Jaehoon Yoo*
+    - Wonjung Kim*
+    - Floor Eijkelboom
+    - Chanhyuk Lee
+    - Nicholas M. Boffi
+    - Seunghoon Hong†
+    - Jinwoo Kim†
+  venue: Preprint
+  year: 2026
+  arxiv: "2607.00714"
+  thumbnail: /images/figs/thumbnails/self-conditioned-fmlm.png
+  equal_contribution: true
+  highlight: false
+  category: preprint
+
+- id: few-step-boltzmann
+  title: "Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps"
+  authors:
+    - RuiKang OuYang
+    - Hanlin Yu*
+    - Xinyue Ai*
+    - Yutong He
+    - Nicholas M. Boffi
+    - Pradeep Ravikumar
+    - José Miguel Hernández-Lobato
+    - Max Simchowitz
+    - Benjamin Kurt Miller
+    - Omar Chehab
+  venue: Preprint
+  year: 2026
+  arxiv: "2606.29110"
+  thumbnail: /images/figs/thumbnails/few-step-boltzmann.png
+  equal_contribution: true
+  highlight: false
+  category: preprint
+
+- id: posterior-refinement
+  title: "Posterior Refinement: Fast Language Generation via Any-Order Flow Maps"
+  authors:
+    - Manan Agarwal*
+    - Sheel Shah*
+    - Chanhyuk Lee
+    - Jaehoon Yoo
+    - Jerry Huang
+    - Seunghoon Hong
+    - Aditi Raghunathan
+    - Jinwoo Kim†
+    - Nicholas M. Boffi†
+  venue: Preprint
+  year: 2026
+  arxiv: "2606.24773"
+  thumbnail: /images/figs/thumbnails/posterior-refinement.png
+  equal_contribution: true
+  highlight: false
+  category: preprint
+
+- id: cofolding-flow-maps
+  title: "Few-step Cofolding with All-Atom Flow Maps"
+  authors:
+    - Gianluca Scarpellini
+    - Ron Shprints
+    - Peter Holderrieth
+    - Juno Nam
+    - Pranav Murugan
+    - Rafael Gómez-Bombarelli
+    - Tommi Jaakkola
+    - Maruan Al-Shedivat
+    - Nicholas M. Boffi
+    - Avishek Joey Bose
+  venue: Preprint
+  year: 2026
+  arxiv: "2606.08375"
+  thumbnail: /images/figs/thumbnails/cofolding-flow-maps.png
+  highlight: false
+  category: preprint
+
+- id: flux-matching
+  title: "Reactive Flux Matching: Mechanism Discovery and Adaptive Sampling of Rare Events"
+  authors:
+    - Rishal Aggarwal
+    - David Ryan Koes
+    - Nicholas M. Boffi
+    - Eric Vanden-Eijnden
+  venue: Preprint
+  year: 2026
+  arxiv: "2606.06295"
+  thumbnail: /images/figs/thumbnails/flux-matching.png
+  highlight: false
+  category: preprint
+
 - id: reward-hacking-tilting
   title: "Are We Really Tilting? The Mechanics of Reward Guidance in Flow and Diffusion Models"
   authors:
