@@ -46,7 +46,7 @@ layout: default
 
 <p>My work has been supported by a Department of Energy Computational Science Graduate Fellowship, a Fulbright Research Fellowship, and an NSF Mathematical Sciences Postdoctoral Research Fellowship.</p>
 
-<p><strong>I am currently on leave from my academic position, building a new research lab.</strong></p>
+<p style="text-align: center;"><strong>I am currently on leave from my academic position, building a new research lab.</strong></p>
 
 <p style="margin-top: 1rem; text-align: center;">
   <a href="#research">Research</a> /
