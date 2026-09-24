@@ -4,6 +4,25 @@
 
 # ── 2026 ──────────────────────────────────────────────────────────────────────
 
+- id: wtf-flow-maps
+  title: "WTF?! Simulation-Free Reinforcement Learning with Wasserstein-Tilted Flow Maps"
+  authors:
+    - Abbas Mammadov*
+    - Jerry Y. Huang*
+    - Justin Lin*
+    - Partha Kaushik
+    - Sheel Shah
+    - Kartik Nair
+    - Yee Whye Teh
+    - Nicholas M. Boffi
+  venue: Preprint
+  year: 2026
+  arxiv: "2609.27033"
+  thumbnail: /images/figs/thumbnails/wtf-flow-maps.jpg
+  equal_contribution: true
+  highlight: false
+  category: preprint
+
 - id: looped-flows
   title: "Thinking with Looped Flows"
   authors:
